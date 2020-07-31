@@ -8,7 +8,7 @@ canvas.on('mouse:wheel', function (opt) {  //desktop zoom in out
     var delta = opt.e.deltaY;
     var zoom = canvas.getZoom();
     zoom *= 0.999 ** delta;
-    if (zoom > 0.5) zoom = 0.5;
+    if (zoom > 0.8) zoom = 0.8;
     if (zoom < 0.3) zoom = 0.3;
     canvas.zoomToPoint({ x: opt.e.offsetX, y: opt.e.offsetY }, zoom);
     opt.e.preventDefault();
@@ -138,12 +138,12 @@ fabric.Object.prototype.transparentCorners = false;
 
 //fabric.Object.prototype.cornerColor = 'grey';
 fabric.Object.prototype.cornerSize = 15;
-fabric.Object.prototype.cornerColor = 'white';
+fabric.Object.prototype.cornerColor = 'rgb(126, 167, 156)';
 
 fabric.Object.prototype.cornerStyle = 'circle';
 fabric.Object.prototype.hasControls = true;
 fabric.Object.prototype.hasBorders = true;
-fabric.Object.prototype.borderColor = 'white';
+fabric.Object.prototype.borderColor = 'rgb(126, 167, 156)';
 fabric.Object.prototype.borderSize = 6;
 
 canvas.defaultCursor = "pointer";
@@ -374,16 +374,16 @@ function calctotal() {
 
 
     console.log(total)
-    if (obj.length > 3 && obj.length <= 6 && total > 30) {
+    if (obj.length > 6 && total > 30) {
 
         //console.log(total);
 
 
-        total -= (total * 0.1);
+        total -= (total * 0.05);
 
 
     }
-    else if (obj.length > 7 && obj.length <= 10) {
+    else if (obj.length > 10 && total > 40) {
         //console.log(obj.length);
 
 
@@ -392,7 +392,7 @@ function calctotal() {
 
     }
 
-    else if (obj.length > 10) {
+    else if (obj.length > 15 && total > 50) {
         //console.log(obj.length);
 
 

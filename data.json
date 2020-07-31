@@ -419,7 +419,7 @@
         "id": "62",
         "name": "chainearcuff, drop",
         "price": 5,
-        "weight": 0.8,
+        "weight": 0.5,
         "material": "Gold plated 925 silver",
         "photo": "imagegold/shxta.png"
     },
@@ -427,7 +427,7 @@
         "id": "63",
         "name": "chainearcuff, drop",
         "price": 5,
-        "weight": 0.8,
+        "weight": 0.5,
         "material": "925 silver",
         "photo": "image/shxta.png"
     },
@@ -2022,5 +2022,53 @@
         "weight": 0,
         "material": "Mannequin",
         "photo": "image/handbig.png"
+    },
+    "280": {
+        "id": "280",
+        "name": "sea",
+        "price": 3,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/yakr.png"
+    },
+    "281": {
+        "id": "281",
+        "name": "sea",
+        "price": 3,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/yakr.png"
+    },
+    "282": {
+        "id": "282",
+        "name": "chainearcuff earcuffs",
+        "price": 6,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/chainforcuff.png"
+    },
+    "283": {
+        "id": "283",
+        "name": "chainearcuff earcuffs",
+        "price": 6,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/chainforcuff.png"
+    },
+    "284": {
+        "id": "284",
+        "name": "chainearcuff earcuffs",
+        "price": 6,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/earcuffthinchain.png"
+    },
+    "285": {
+        "id": "285",
+        "name": "chainearcuff earcuffs",
+        "price": 6,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/earcuffthinchain.png"
     }
 }
