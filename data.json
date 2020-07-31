@@ -1,0 +1,2026 @@
+{
+    "2": {
+        "id": "2",
+        "name": "statementearring, large",
+        "price": 12,
+        "weight": 7,
+        "material": "925 silver",
+        "photo": "image/large pendant 3.png"
+    },
+    "3": {
+        "id": "3",
+        "name": "statementearring large",
+        "price": 13,
+        "weight": 7,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/large pendant 3.png"
+    },
+    "5": {
+        "id": "5",
+        "name": "medium",
+        "price": 8,
+        "weight": 5,
+        "material": "925 silver",
+        "photo": "image/frame3.png"
+    },
+    "6": {
+        "id": "6",
+        "name": "medium",
+        "price": 8,
+        "weight": 5,
+        "material": "Gold plated925 silver",
+        "photo": "imagegold/frame3.png"
+    },
+    "12": {
+        "id": "12",
+        "name": "drop ",
+        "price": 3,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/link.png"
+    },
+    "13": {
+        "id": "13",
+        "name": "drop ",
+        "price": 3,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/link.png"
+    },
+    "14": {
+        "id": "14",
+        "name": "drop",
+        "price": 3,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/link2.png"
+    },
+    "15": {
+        "id": "15",
+        "name": "drop",
+        "price": 3,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/link2.png"
+    },
+    "16": {
+        "id": "16",
+        "name": "medium nature",
+        "price": 6,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/leaf1.png"
+    },
+    "17": {
+        "id": "17",
+        "name": "medium nature",
+        "price": 6,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/leaf1.png"
+    },
+    "18": {
+        "id": "18",
+        "name": "medium nature",
+        "price": 6,
+        "weight": 5,
+        "material": "925 silver",
+        "photo": "image/leaf2.png"
+    },
+    "19": {
+        "id": "19",
+        "name": "medium nature",
+        "price": 6,
+        "weight": 5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/leaf2.png"
+    },
+    "22": {
+        "id": "22",
+        "name": "chainearcuff, stud, statementearring, climber, earcuff, drop, mannequin",
+        "price": 0,
+        "weight": 0,
+        "material": "Mannequin",
+        "photo": "image/ear.png"
+    },
+    "23": {
+        "id": "23",
+        "name": "chainearcuff, stud, statementearring, climber, earcuff, drop, mannequin",
+        "price": 0,
+        "weight": 0,
+        "material": "Mannequin",
+        "photo": "image/earleft.png"
+    },
+    "24": {
+        "id": "24",
+        "name": "chainearcuff, earcuffs",
+        "price": 6,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/ballcuff.png"
+    },
+    "25": {
+        "id": "25",
+        "name": "chainearcuff, earcuffs ",
+        "price": 7,
+        "weight": 3,
+        "photo": "imagegold/ballcuff.png",
+        "material": "Gold plated 925 silver"
+    },
+    "26": {
+        "id": "26",
+        "name": "large sea",
+        "price": 10,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/shipwheel.png"
+    },
+    "27": {
+        "id": "27",
+        "name": "large sea",
+        "price": 9,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/shipwheel.png"
+    },
+    "28": {
+        "id": "28",
+        "name": "chainearcuff, medium",
+        "price": 7,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/braid.png"
+    },
+    "29": {
+        "id": "28",
+        "name": "chainearcuff, medium",
+        "price": 8,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/braid.png"
+    },
+    "30": {
+        "id": "30",
+        "name": "chainearcuff, earcuffs ",
+        "price": 8,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/braidcuff.png"
+    },
+    "31": {
+        "id": "31",
+        "name": "chainearcuff, earcuffs",
+        "price": 7,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/braidcuff.png"
+    },
+    "32": {
+        "id": "32",
+        "name": "chainearcuff, earcuffs",
+        "price": 7,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/simplecuff.png"
+    },
+    "33": {
+        "id": "33",
+        "name": "chainearcuff, earcuffs",
+        "price": 8,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/simplecuff.png"
+    },
+    "34": {
+        "id": "34",
+        "name": "large nature",
+        "price": 15,
+        "weight": 9,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/snake.png"
+    },
+    "35": {
+        "id": "35",
+        "name": "large nature",
+        "price": 14,
+        "weight": 9,
+        "material": "925 silver",
+        "photo": "image/snake.png"
+    },
+    "36": {
+        "id": "36",
+        "name": "climber nature",
+        "price": 6,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/smallbranch.png"
+    },
+    "37": {
+        "id": "37",
+        "name": "climber nature",
+        "price": 7,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/smallbranch.png"
+    },
+    "38": {
+        "id": "38",
+        "name": "medium hearts",
+        "price": 6,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/hearthallow.png"
+    },
+    "39": {
+        "id": "39",
+        "name": "medium hearts",
+        "price": 5.5,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/hearthallow.png"
+    },
+    "40": {
+        "id": "40",
+        "name": "small hearts",
+        "price": 4,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/smallsimpleheart.png"
+    },
+    "41": {
+        "id": "41",
+        "name": "small hearts",
+        "price": 5,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/smallsimpleheart.png"
+    },
+    "42": {
+        "id": "42",
+        "name": "climber",
+        "price": 5,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/vertical.png"
+    },
+    "43": {
+        "id": "43",
+        "name": "climber",
+        "price": 6,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/vertical.png"
+    },
+    "44": {
+        "id": "44",
+        "name": "climber",
+        "price": 6,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/cuffhorizontal.png"
+    },
+    "45": {
+        "id": "45",
+        "name": "climber",
+        "price": 7,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/cuffhorizontal.png"
+    },
+    "46": {
+        "id": "46",
+        "name": "climber",
+        "price": 8,
+        "weight": 3.5,
+        "material": "925 silver",
+        "photo": "image/tellong.png"
+    },
+    "47": {
+        "id": "47",
+        "name": "climber",
+        "price": 9,
+        "weight": 3.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/tellong.png"
+    },
+    "48": {
+        "id": "48",
+        "name": "Drop",
+        "price": 5,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/bulavka.png"
+    },
+    "49": {
+        "id": "49",
+        "name": "Drop",
+        "price": 4,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/bulavka.png"
+    },
+    "50": {
+        "id": "50",
+        "name": "hoop",
+        "price": 7,
+        "weight": 6,
+        "material": "925 silver",
+        "photo": "image/hoop.png"
+    },
+    "51": {
+        "id": "51",
+        "name": "hoop",
+        "price": 7,
+        "weight": 6,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/hoop.png"
+    },
+    "52": {
+        "id": "52",
+        "name": "hoop",
+        "price": 10,
+        "weight": 7,
+        "material": "925 silver",
+        "photo": "image/hoopbig.png"
+    },
+    "53": {
+        "id": "53",
+        "name": "hoop",
+        "price": 11,
+        "weight": 7,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/hoopbig.png"
+    },
+    "54": {
+        "id": "54",
+        "name": "hoop",
+        "price": 10,
+        "weight": 10,
+        "material": "925 silver",
+        "photo": "image/hoopthick.png"
+    },
+    "55": {
+        "id": "55",
+        "name": "hoop",
+        "price": 11,
+        "weight": 10,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/hoopthick.png"
+    },
+    "56": {
+        "id": "56",
+        "name": "hoop",
+        "price": 10,
+        "weight": 4,
+        "material": "925 silver",
+        "photo": "image/hoopthicksmall.png"
+    },
+    "57": {
+        "id": "57",
+        "name": "hoop",
+        "price": 11,
+        "weight": 4,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/hoopthicksmall.png"
+    },
+    "58": {
+        "id": "58",
+        "name": "chainearcuff",
+        "price": 5,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/chainkor.png"
+    },
+    "59": {
+        "id": "59",
+        "name": "chainearcuff",
+        "price": 5,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/chainkor.png"
+    },
+    "60": {
+        "id": "60",
+        "name": "chainearcuff, drop",
+        "price": 5,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/chainshort.png"
+    },
+    "61": {
+        "id": "61",
+        "name": "chainearcuff, drop",
+        "price": 5,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/chainshort.png"
+    },
+    "62": {
+        "id": "62",
+        "name": "chainearcuff, drop",
+        "price": 5,
+        "weight": 0.8,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/shxta.png"
+    },
+    "63": {
+        "id": "63",
+        "name": "chainearcuff, drop",
+        "price": 5,
+        "weight": 0.8,
+        "material": "925 silver",
+        "photo": "image/shxta.png"
+    },
+    "64": {
+        "id": "64",
+        "name": "chainearcuff, drop",
+        "price": 6,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/chainlong.png"
+    },
+    "65": {
+        "id": "65",
+        "name": "chainearcuff, drop",
+        "price": 6,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/chainlong.png"
+    },
+    "66": {
+        "id": "66",
+        "name": "chainearcuff",
+        "price": 6,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/chainforpiercing.png"
+    },
+    "67": {
+        "id": "67",
+        "name": "chainearcuff",
+        "price": 6,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/chainforpiercing.png"
+    },
+    "68": {
+        "id": "68",
+        "name": "drop",
+        "price": 6,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/chain2holes.png"
+    },
+    "69": {
+        "id": "69",
+        "name": "drop",
+        "price": 6,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/chain2holes.png"
+    },
+    "70": {
+        "id": "70",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/aycexjur.png"
+    },
+    "71": {
+        "id": "71",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/aries.png"
+    },
+    "72": {
+        "id": "72",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/gemini.png"
+    },
+    "73": {
+        "id": "73",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/sagitt.png"
+    },
+    "74": {
+        "id": "74",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/leo.png"
+    },
+    "75": {
+        "id": "75",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/virgin.png"
+    },
+    "76": {
+        "id": "76",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/cancer.png"
+    },
+    "77": {
+        "id": "77",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/scorpio.png"
+    },
+    "78": {
+        "id": "78",
+        "name": "zodiac sea",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/fish.png"
+    },
+    "79": {
+        "id": "79",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/ksherq.png"
+    },
+    "80": {
+        "id": "80",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/jrhos.png"
+    },
+    "81": {
+        "id": "81",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/jrhos.png"
+    },
+    "82": {
+        "id": "82",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/aries.png"
+    },
+    "83": {
+        "id": "83",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/aycexjur.png"
+    },
+    "84": {
+        "id": "84",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/scorpio.png"
+    },
+    "85": {
+        "id": "85",
+        "name": "zodiac sea",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/fish.png"
+    },
+    "86": {
+        "id": "86",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/cancer.png"
+    },
+    "87": {
+        "id": "87",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/ksherq.png"
+    },
+    "88": {
+        "id": "88",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/leo.png"
+    },
+    "89": {
+        "id": "89",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/virgin.png"
+    },
+    "90": {
+        "id": "90",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/sagit.png"
+    },
+    "91": {
+        "id": "91",
+        "name": "zodiac",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/gemini.png"
+    },
+    "92": {
+        "id": "92",
+        "name": "large",
+        "price": 15,
+        "weight": 10,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/biggoldcircle.png"
+    },
+    "93": {
+        "id": "93",
+        "name": "large",
+        "price": 15,
+        "weight": 10,
+        "material": "925 silver",
+        "photo": "image/bigcircle.png"
+    },
+    "94": {
+        "id": "94",
+        "name": "medium sea sky",
+        "price": 8,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/seastar1.png"
+    },
+    "95": {
+        "id": "95",
+        "name": "medium sea sky",
+        "price": 9,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/seastar1.png"
+    },
+    "96": {
+        "id": "96",
+        "name": "medium sea sky",
+        "price": 9,
+        "weight": 4,
+        "material": "925 silver",
+        "photo": "image/seastar2.png"
+    },
+    "97": {
+        "id": "97",
+        "name": "medium sea sky",
+        "price": 10,
+        "weight": 4,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/seastar2.png"
+    },
+    "98": {
+        "id": "98",
+        "name": "medium nature",
+        "price": 10,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/terevnerdouble.png"
+    },
+    "99": {
+        "id": "99",
+        "name": "medium nature",
+        "price": 10,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/terevnerdouble.png"
+    },
+    "100": {
+        "id": "100",
+        "name": "statementearring nature",
+        "price": 10,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/terevner.png"
+    },
+    "101": {
+        "id": "101",
+        "name": "statementearring nature",
+        "price": 10,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/terevner.png"
+    },
+    "102": {
+        "id": "102",
+        "name": "medium nature",
+        "price": 11,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/terevwithgem.png"
+    },
+    "103": {
+        "id": "103",
+        "name": "medium nature",
+        "price": 10,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/terevwithgem.png"
+    },
+    "104": {
+        "id": "104",
+        "name": "large",
+        "price": 14,
+        "weight": 6,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/large pendant2.png"
+    },
+    "105": {
+        "id": "105",
+        "name": "large",
+        "price": 13,
+        "weight": 6,
+        "material": "925 silver",
+        "photo": "image/large pendant2.png"
+    },
+    "107": {
+        "id": "107",
+        "name": "medium",
+        "price": 8,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/horn.png"
+    },
+    "108": {
+        "id": "108",
+        "name": "medium",
+        "price": 8,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/horn.png"
+    },
+    "109": {
+        "id": "109",
+        "name": "small",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/katil.png"
+    },
+    "110": {
+        "id": "110",
+        "name": "small",
+        "price": 6,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/katil.png"
+    },
+    "112": {
+        "id": "112",
+        "name": "large hearts",
+        "price": 12,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/simpleheart.png"
+    },
+    "113": {
+        "id": "113",
+        "name": "large hearts",
+        "price": 13,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/simpleheart.png"
+    },
+    "117": {
+        "id": "117",
+        "name": "medium nature",
+        "price": 8,
+        "weight": 4.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/sunflower.png"
+    },
+    "118": {
+        "id": "118",
+        "name": "medium nature",
+        "price": 8,
+        "weight": 4.5,
+        "material": "925 silver",
+        "photo": "image/sunflower.png"
+    },
+    "123": {
+        "id": "123",
+        "name": "bracelet",
+        "price": 8,
+        "weight": 3.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/tevnocringchain.png"
+    },
+    "124": {
+        "id": "124",
+        "name": "bracelet",
+        "price": 8,
+        "weight": 3.5,
+        "material": "925 silver",
+        "photo": "image/tevnocringchain.png"
+    },
+    "126": {
+        "id": "126",
+        "name": "medium nature",
+        "price": 8,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/wireflower.png"
+    },
+    "127": {
+        "id": "127",
+        "name": "medium nature",
+        "price": 8,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/wireflower.png"
+    },
+    "128": {
+        "id": "128",
+        "name": "small nature",
+        "price": 8,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/zangak.png"
+    },
+    "129": {
+        "id": "129",
+        "name": "small nature",
+        "price": 8,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/zangak.png"
+    },
+    "132": {
+        "id": "132",
+        "name": "small triangle small ",
+        "price": 8,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/yerankyun.png"
+    },
+    "133": {
+        "id": "133",
+        "name": "small triangle small",
+        "price": 8,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/yerankyun.png"
+    },
+    "134": {
+        "id": "134",
+        "name": "small nature",
+        "price": 8,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/lotus1.png"
+    },
+    "135": {
+        "id": "135",
+        "name": "small nature",
+        "price": 8,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/lotus1.png"
+    },
+    "136": {
+        "id": "136",
+        "name": "small",
+        "price": 3,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/uxxankyun.png"
+    },
+    "137": {
+        "id": "137",
+        "name": "small",
+        "price": 3,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/uxxankyun.png"
+    },
+    "138": {
+        "id": "138",
+        "name": "small",
+        "price": 3,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/nush.png"
+    },
+    "139": {
+        "id": "139",
+        "name": "small",
+        "price": 3,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/nush.png"
+    },
+    "140": {
+        "id": "140",
+        "name": "small",
+        "price": 3,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/klor.png"
+    },
+    "141": {
+        "id": "141",
+        "name": "small",
+        "price": 3,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/klor.png"
+    },
+    "143": {
+        "id": "143",
+        "name": "small",
+        "price": 3,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/paxlava.png"
+    },
+    "144": {
+        "id": "144",
+        "name": "small",
+        "price": 3,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/paxlava.png"
+    },
+    "145": {
+        "id": "145",
+        "name": "small nature",
+        "price": 3,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/orchid.png"
+    },
+    "146": {
+        "id": "146",
+        "name": "small nature",
+        "price": 3,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/orchid.png"
+    },
+    "147": {
+        "id": "147",
+        "name": "necklaces",
+        "price": 3,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/necklace1.png"
+    },
+    "148": {
+        "id": "148",
+        "name": "necklaces",
+        "price": 3,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/necklace1.png"
+    },
+    "149": {
+        "id": "149",
+        "name": "large",
+        "price": 5,
+        "weight": 5,
+        "material": "925 silver",
+        "photo": "image/romancircle.png"
+    },
+    "150": {
+        "id": "150",
+        "name": "large",
+        "price": 5,
+        "weight": 5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/romancircle.png"
+    },
+    "151": {
+        "id": "151",
+        "name": "large",
+        "price": 5,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/frame2.png"
+    },
+    "152": {
+        "id": "152",
+        "name": "large",
+        "price": 5,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/frame2.png"
+    },
+    "154": {
+        "id": "154",
+        "name": "rings",
+        "price": 10,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/paxlavaring.png"
+    },
+    "155": {
+        "id": "155",
+        "name": "rings ",
+        "price": 11,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/paxlavaring.png"
+    },
+    "156": {
+        "id": "156",
+        "name": "rings ",
+        "price": 10,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/smallpaxlavaring.png"
+    },
+    "157": {
+        "id": "157",
+        "name": "rings",
+        "price": 11,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/smallpaxlavaring.png"
+    },
+    "158": {
+        "id": "158",
+        "name": "rings",
+        "price": 10,
+        "weight": 3.5,
+        "material": "925 silver",
+        "photo": "image/branchring.png"
+    },
+    "159": {
+        "id": "159",
+        "name": "rings",
+        "price": 11,
+        "weight": 3.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/branchring.png"
+    },
+    "160": {
+        "id": "160",
+        "name": "rings",
+        "price": 8,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/flowerring.png"
+    },
+    "161": {
+        "id": "161",
+        "name": "rings",
+        "price": 9,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/flowerring.png"
+    },
+    "162": {
+        "id": "162",
+        "name": "small detail",
+        "price": 5,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/paxlavatorus.png"
+    },
+    "163": {
+        "id": "163",
+        "name": "small detail",
+        "price": 5,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/paxlavatorus.png"
+    },
+    "164": {
+        "id": "164",
+        "name": "small detail pearls",
+        "price": 5,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/konpearl.png"
+    },
+    "165": {
+        "id": "165",
+        "name": "small detail pearls",
+        "price": 5,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/konpearl.png"
+    },
+    "166": {
+        "id": "166",
+        "name": "large, statementearring",
+        "price": 11,
+        "weight": 7,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/wirebig.png"
+    },
+    "167": {
+        "id": "167",
+        "name": "large, statementearring",
+        "price": 10,
+        "weight": 7,
+        "material": "925 silver",
+        "photo": "image/wirebig.png"
+    },
+    "168": {
+        "id": "168",
+        "name": "large, statementearring",
+        "price": 11,
+        "weight": 4.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/wirecrook.png"
+    },
+    "169": {
+        "id": "169",
+        "name": "large, statementearring",
+        "price": 10,
+        "weight": 4.5,
+        "material": "925 silver",
+        "photo": "image/wirecrook.png"
+    },
+    "170": {
+        "id": "170",
+        "name": "large statementearring",
+        "price": 11,
+        "weight": 5.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/wirewave.png"
+    },
+    "171": {
+        "id": "171",
+        "name": "large statementearring",
+        "price": 10,
+        "weight": 5.5,
+        "material": "925 silver",
+        "photo": "image/wirewave.png"
+    },
+    "172": {
+        "id": "172",
+        "name": "small detail",
+        "price": 5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/qarakusi.png"
+    },
+    "173": {
+        "id": "173",
+        "name": "small detail",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/qarakusi.png"
+    },
+    "174": {
+        "id": "174",
+        "name": "medium detail flower nature",
+        "price": 5,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/flower.png"
+    },
+    "175": {
+        "id": "175",
+        "name": "medium detail flower nature",
+        "price": 5,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/flower.png"
+    },
+    "176": {
+        "id": "176",
+        "name": "connector statementearring drop",
+        "price": 0.5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/link3.png"
+    },
+    "177": {
+        "id": "177",
+        "name": "connector statementearring drop",
+        "price": 0.5,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/link3.png"
+    },
+    "178": {
+        "id": "178",
+        "name": "small detail",
+        "price": 3,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/biggerdrop.png"
+    },
+    "179": {
+        "id": "179",
+        "name": "small detail",
+        "price": 3,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/biggerdrop.png"
+    },
+    "180": {
+        "id": "180",
+        "name": "drop small",
+        "price": 3,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/stick.png"
+    },
+    "181": {
+        "id": "181",
+        "name": "drop small",
+        "price": 3,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/stick.png"
+    },
+    "182": {
+        "id": "182",
+        "name": "medium",
+        "price": 5,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/ornatevertical.png"
+    },
+    "183": {
+        "id": "183",
+        "name": "medium",
+        "price": 6,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/ornatevertical.png"
+    },
+    "184": {
+        "id": "184",
+        "name": "earcuffs",
+        "price": 5,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/ornatecuff.png"
+    },
+    "185": {
+        "id": "185",
+        "name": "earcuffs",
+        "price": 6,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/ornatecuff.png"
+    },
+    "186": {
+        "id": "186",
+        "name": "medium",
+        "price": 5,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/kamar.png"
+    },
+    "187": {
+        "id": "187",
+        "name": "medium",
+        "price": 6,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/kamar.png"
+    },
+    "188": {
+        "id": "188",
+        "name": "drop",
+        "price": 5,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/connect.png"
+    },
+    "189": {
+        "id": "189",
+        "name": "drop",
+        "price": 6,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/connect.png"
+    },
+    "190": {
+        "id": "190",
+        "name": "medium detail snake nature",
+        "price": 11,
+        "weight": 3.5,
+        "material": "925 silver",
+        "photo": "image/smallersnake.png"
+    },
+    "191": {
+        "id": "191",
+        "name": "medium detail snake nature",
+        "price": 12,
+        "weight": 3.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/smallersnake.png"
+    },
+    "192": {
+        "id": "192",
+        "name": "large detail",
+        "price": 13,
+        "weight": 5,
+        "material": "925 silver",
+        "photo": "image/tree.png"
+    },
+    "193": {
+        "id": "193",
+        "name": "large detail ",
+        "price": 13,
+        "weight": 5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/tree.png"
+    },
+    "194": {
+        "id": "194",
+        "name": "small detail sky",
+        "price": 5,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/starsmall.png"
+    },
+    "195": {
+        "id": "195",
+        "name": "small detail sky ",
+        "price": 5,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/starsmall.png"
+    },
+    "196": {
+        "id": "196",
+        "name": "medium detail frame sky",
+        "price": 7,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/framewithstar.png"
+    },
+    "197": {
+        "id": "197",
+        "name": "medium detail frame sky ",
+        "price": 7,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/framewithstar.png"
+    },
+    "199": {
+        "id": "199",
+        "name": "rings",
+        "price": 8,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/ring3.png"
+    },
+    "200": {
+        "id": "200",
+        "name": "rings",
+        "price": 8,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/ring3.png"
+    },
+    "201": {
+        "id": "201",
+        "name": "rings",
+        "price": 8,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/ring2.png"
+    },
+    "202": {
+        "id": "202",
+        "name": "rings",
+        "price": 9,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/ring2.png"
+    },
+    "203": {
+        "id": "203",
+        "name": "rings",
+        "price": 8,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/ring4.png"
+    },
+    "204": {
+        "id": "204",
+        "name": "rings",
+        "price": 9,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/ring4.png"
+    },
+    "205": {
+        "id": "205",
+        "name": "large details bow",
+        "price": 10,
+        "weight": 7,
+        "material": "925 silver",
+        "photo": "image/bowbig.png"
+    },
+    "206": {
+        "id": "206",
+        "name": "large details bow",
+        "price": 11,
+        "weight": 7,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/bowbig.png"
+    },
+    "207": {
+        "id": "207",
+        "name": "small nature",
+        "price": 5,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/boxboj.png"
+    },
+    "208": {
+        "id": "208",
+        "name": "small nature",
+        "price": 5,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/boxboj.png"
+    },
+    "209": {
+        "id": "209",
+        "name": "earcuffs",
+        "price": 6,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/pipecuff.png"
+    },
+    "210": {
+        "id": "210",
+        "name": "earcuffs",
+        "price": 7,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/pipecuff.png"
+    },
+    "211": {
+        "id": "211",
+        "name": "medium butterflies",
+        "price": 8,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/titeremal.png"
+    },
+    "212": {
+        "id": "212",
+        "name": "medium butterflies",
+        "price": 7,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/titeremal.png"
+    },
+    "213": {
+        "id": "213",
+        "name": "chainearcuffs",
+        "price": 9,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/combochains.png"
+    },
+    "214": {
+        "id": "214",
+        "name": "medium details",
+        "price": 7,
+        "weight": 3.5,
+        "material": "925 silver",
+        "photo": "image/4corner.png"
+    },
+    "215": {
+        "id": "215",
+        "name": "medium details",
+        "price": 9,
+        "weight": 3.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/4corner.png"
+    },
+    "216": {
+        "id": "216",
+        "name": "small details nature",
+        "price": 7,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/rose.png"
+    },
+    "217": {
+        "id": "217",
+        "name": "small details nature",
+        "price": 9,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/rose.png"
+    },
+    "218": {
+        "id": "218",
+        "name": "medium details",
+        "price": 7,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/circleseed.png"
+    },
+    "219": {
+        "id": "219",
+        "name": "medium details",
+        "price": 9,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/circleseed.png"
+    },
+    "220": {
+        "id": "220",
+        "name": "small details nature",
+        "price": 3,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/smallflower.png"
+    },
+    "221": {
+        "id": "221",
+        "name": "small details nature",
+        "price": 4,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/smallflower.png"
+    },
+    "222": {
+        "id": "222",
+        "name": "medium details circle",
+        "price": 9,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/circleornate.png"
+    },
+    "223": {
+        "id": "223",
+        "name": "medium details circle",
+        "price": 10,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/circleornate.png"
+    },
+    "224": {
+        "id": "224",
+        "name": "medium sea",
+        "price": 9,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/fishmedium.png"
+    },
+    "225": {
+        "id": "225",
+        "name": "medium sea ",
+        "price": 10,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/fishmedium.png"
+    },
+    "226": {
+        "id": "226",
+        "name": " chainearcuff ",
+        "price": 10,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/smallcuff.png"
+    },
+    "227": {
+        "id": "227",
+        "name": " chainearcuff ",
+        "price": 9,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/smallcuff.png"
+    },
+    "228": {
+        "id": "228",
+        "name": "small",
+        "price": 10,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/emalcircle.png"
+    },
+    "229": {
+        "id": "229",
+        "name": "small",
+        "price": 9,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/emalcircle.png"
+    },
+    "230": {
+        "id": "230",
+        "name": "medium butterflies ",
+        "price": 10,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/titerwingemal.png"
+    },
+    "231": {
+        "id": "231",
+        "name": "medium butterflies",
+        "price": 9,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/titerwingemal.png"
+    },
+    "232": {
+        "id": "232",
+        "name": "medium butterflies",
+        "price": 10,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/butterflywing.png"
+    },
+    "233": {
+        "id": "233",
+        "name": "medium butterflies",
+        "price": 9,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/butterflywing.png"
+    },
+    "234": {
+        "id": "234",
+        "name": "medium butterflies ",
+        "price": 10,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/titerwingemalright.png"
+    },
+    "235": {
+        "id": "235",
+        "name": "medium butterflies",
+        "price": 10,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/titerwingemalright.png"
+    },
+    "236": {
+        "id": "236",
+        "name": "medium butterflies",
+        "price": 10,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/butterflywingright.png"
+    },
+    "237": {
+        "id": "237",
+        "name": "medium butterflies",
+        "price": 10,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/butterflywingright.png"
+    },
+    "238": {
+        "id": "238",
+        "name": "rings",
+        "price": 4,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/ringchain1.png"
+    },
+    "239": {
+        "id": "239",
+        "name": "rings",
+        "price": 4,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/ringchain1.png"
+    },
+    "240": {
+        "id": "240",
+        "name": "rings",
+        "price": 4,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/ringchain3.png"
+    },
+    "241": {
+        "id": "241",
+        "name": "rings",
+        "price": 4,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/ringchain3.png"
+    },
+    "242": {
+        "id": "242",
+        "name": "rings",
+        "price": 5,
+        "weight": 1,
+        "material": "925 silver",
+        "photo": "image/ringchain2.png"
+    },
+    "243": {
+        "id": "243",
+        "name": "rings",
+        "price": 5,
+        "weight": 1,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/ringchain2.png"
+    },
+    "244": {
+        "id": "244",
+        "name": "bracelet",
+        "price": 10,
+        "weight": 9.5,
+        "material": "925 silver",
+        "photo": "image/simplebangle.png"
+    },
+    "245": {
+        "id": "245",
+        "name": "bracelet",
+        "price": 10,
+        "weight": 9.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/simplebangle.png"
+    },
+    "246": {
+        "id": "246",
+        "name": "bracelet",
+        "price": 10,
+        "weight": 9.5,
+        "material": "925 silver",
+        "photo": "image/simplebanglesolo.png"
+    },
+    "247": {
+        "id": "247",
+        "name": "bracelet",
+        "price": 10,
+        "weight": 9.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/simplebanglesolo.png"
+    },
+    "248": {
+        "id": "248",
+        "name": "bracelet",
+        "price": 10,
+        "weight": 9.5,
+        "material": "925 silver",
+        "photo": "image/helixbracelet.png"
+    },
+    "249": {
+        "id": "249",
+        "name": "bracelet",
+        "price": 10,
+        "weight": 9.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/helixbracelet.png"
+    },
+    "252": {
+        "id": "252",
+        "name": "small butterflies",
+        "price": 7,
+        "weight": 1.5,
+        "material": "925 silver",
+        "photo": "image/poqrtiter.png"
+    },
+    "253": {
+        "id": "253",
+        "name": "small butterflies",
+        "price": 8,
+        "weight": 1.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/poqrtiter.png"
+    },
+    "254": {
+        "id": "254",
+        "name": "small nature",
+        "price": 6,
+        "weight": 2,
+        "material": "925 silver",
+        "photo": "image/vard.png"
+    },
+    "255": {
+        "id": "255",
+        "name": "small nature",
+        "price": 8,
+        "weight": 2,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/vard.png"
+    },
+    "256": {
+        "id": "256",
+        "name": "medium hearts",
+        "price": 5,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/heartornate.png"
+    },
+    "257": {
+        "id": "257",
+        "name": "medium hearts",
+        "price": 8,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/heartornate.png"
+    },
+    "258": {
+        "id": "258",
+        "name": "medium hearts",
+        "price": 8,
+        "weight": 3,
+        "material": "925 silver",
+        "photo": "image/heartwithstars.png"
+    },
+    "259": {
+        "id": "259",
+        "name": "medium hearts",
+        "price": 8,
+        "weight": 3,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/heartwithstars.png"
+    },
+    "260": {
+        "id": "260",
+        "name": "medium sky",
+        "price": 7,
+        "weight": 4,
+        "material": "925 silver",
+        "photo": "image/sun.png"
+    },
+    "261": {
+        "id": "261",
+        "name": "medium sky",
+        "price": 8,
+        "weight": 5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/sun.png"
+    },
+    "262": {
+        "id": "262",
+        "name": "statementearring, large",
+        "price": 15,
+        "weight": 10,
+        "photo": "imagegold/large pendant.png",
+        "material": "Gold plated 925 silver"
+    },
+    "263": {
+        "id": "263",
+        "name": "statementearring, large",
+        "price": 15,
+        "weight": 10,
+        "photo": "image/large pendant.png",
+        "material": "925 silver"
+    },
+    "264": {
+        "id": "264",
+        "name": "large nature",
+        "price": 13,
+        "weight": 10,
+        "material": "925 silver",
+        "photo": "image/floweronbranch.png"
+    },
+    "265": {
+        "id": "265",
+        "name": "large nature",
+        "price": 13,
+        "weight": 10,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/floweronbranch.png"
+    },
+    "266": {
+        "id": "266",
+        "name": "statementearring, large",
+        "price": 8,
+        "weight": 5,
+        "material": "925 silver",
+        "photo": "image/frame1.png"
+    },
+    "267": {
+        "id": "267",
+        "name": "statementearring, large",
+        "price": 8,
+        "weight": 5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/frame1.png"
+    },
+    "268": {
+        "id": "268",
+        "name": "large",
+        "price": 13,
+        "weight": 5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/rectemal.png"
+    },
+    "269": {
+        "id": "269",
+        "name": "large",
+        "price": 7,
+        "weight": 5,
+        "material": "925 silver",
+        "photo": "image/rectemal.png"
+    },
+    "270": {
+        "id": "270",
+        "name": "medium",
+        "price": 5,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/tev1.png"
+    },
+    "271": {
+        "id": "271",
+        "name": "medium",
+        "price": 5,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/tev1.png"
+    },
+    "272": {
+        "id": "272",
+        "name": "medium",
+        "price": 5,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/tev2.png"
+    },
+    "273": {
+        "id": "273",
+        "name": "medium",
+        "price": 5,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/tev2.png"
+    },
+    "274": {
+        "id": "274",
+        "name": "medium",
+        "price": 5,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/tev3.png"
+    },
+    "275": {
+        "id": "275",
+        "name": "medium",
+        "price": 5,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/tev3.png"
+    },
+    "276": {
+        "id": "276",
+        "name": "necklaces",
+        "price": 3,
+        "weight": 3.5,
+        "material": "925 silver",
+        "photo": "image/necklace2.png"
+    },
+    "277": {
+        "id": "277",
+        "name": "necklaces",
+        "price": 3,
+        "weight": 3.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/necklace2.png"
+    },
+    "278": {
+        "id": "278",
+        "name": "rings bracelets mannequin",
+        "price": 0,
+        "weight": 0,
+        "material": "Mannequin",
+        "photo": "image/handbigright.png"
+    },
+    "279": {
+        "id": "279",
+        "name": "rings bracelets mannequin",
+        "price": 0,
+        "weight": 0,
+        "material": "Mannequin",
+        "photo": "image/handbig.png"
+    }
+}

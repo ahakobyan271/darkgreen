@@ -1,0 +1,65 @@
+body {
+  margin: 2em;
+}
+aside {
+    background: #1f8dd6; /* same color as selected state on site menu */
+    padding: 0.3em 1em;
+    border-radius: 3px;
+    color: #fff;
+    margin-bottom: 2em;
+}
+textarea {
+  width: 100%;
+}
+.content-head {
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 2em 0 1em;
+}
+.is-center {
+  text-align: center;
+}
+.button-success {
+  color: white;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  background: rgb(28, 184, 65); /* this is a green */
+}
+.button-xlarge {
+  font-size: 125%;
+}
+button {
+  float: right;
+  font-size: 2rem;
+  background-color: transparent;
+  border: 1px solid rgb(255, 255, 255);
+  margin-bottom: 80px;
+  padding: 5px 25px;
+  border-radius: 5px;
+  box-shadow: 1px 2px 7px #838282;
+  transition: 0.5s;
+
+}
+
+button:focus{
+box-shadow: none;
+border: none;
+outline: none;
+
+}
+
+button:hover{
+  background-color: rgb(199, 247, 247);
+  border: rgb(199, 247, 247);
+  
+  }
+
+
+#name, #email {
+  width: 50%;
+}
+.hidden{
+
+  display: none;
+}
