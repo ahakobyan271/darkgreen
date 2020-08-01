@@ -1,4 +1,4 @@
-var canvas = new fabric.Canvas('c10', { width: 920, height: 850, top: 60, backgroundColor: "rgb(4, 78, 72)" });
+var canvas = new fabric.Canvas('c10', { width: 920, height: 850, top: 60, backgroundColor: "rgb(4, 73, 78)" });
 
 
 
@@ -21,12 +21,12 @@ canvas.on('mouse:wheel', function (opt) {  //desktop zoom in out
 
 
 
-/*window.addEventListener('load', function () {
+window.addEventListener('load', function () {
 
-  const loader = document.querySelector('.loader')
+    var loader = document.getElementsByClassName('loader')
 
-  loader.classList.add('hidden')
-})*/
+    loader.classList.add('hidden')
+})
 
 
 

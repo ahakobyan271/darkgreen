@@ -12,7 +12,18 @@ body{
     
 }
 
-
+.loader{
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
     .contactdetails{
     
@@ -53,10 +64,10 @@ body{
 .hidden{
 
     display: none;
-    transition: 0.8s;
+    transition: 0.5s;
 }
 
-.calltodesign{
+.calltodesign, #stylebutton{
 
     text-decoration: none;
     color: rgb(20, 20, 20);
@@ -69,14 +80,16 @@ body{
     padding: 5px 35px 6px 35px;
     border-radius: 2px;
    
-   margin-top: 20px;
+   margin-right: 10px;
     cursor: pointer;
 
 }
 .calltodesign:hover{
     box-shadow: 4px 5px 10px rgb(99, 98, 98);
   }
-
+  #stylebutton:hover{
+    box-shadow: 4px 5px 10px rgb(99, 98, 98);
+  }
 
 img{
 
@@ -108,11 +121,11 @@ width: 100%;
     box-shadow: 1px 5px 10px rgb(99, 98, 98);
     
     margin-top: 20px;
-    transition: 0.7s;
+    transition: 0.3s;
     align-items: center;
     border-radius: 3px;
     padding: 0px;
-    background-color: rgb(4, 78, 72);
+    background-color: rgb(4, 73, 78);
     cursor: pointer;
 
 }
@@ -250,12 +263,12 @@ margin-top: 0px;
 
 
     
-    #stylebutton{
-
-        position: absolute;
-        top: 120px;
-        left: 30px;
-        font-size: 1.2rem;
+    .button-wrapper{
+        display: flex;
+        width: 50%;
+        justify-content:center;
+        
+        margin-top: 50px;
     }
     
 
@@ -271,6 +284,10 @@ margin-top: 0px;
             margin-top: 0px;
             margin-bottom: 0px;
             color: rgb(235, 233, 233);
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
 
             font-size: 1.6rem;
         }
@@ -326,10 +343,10 @@ margin-top: 0px;
             width: 360px;
         }
         
-        .calltodesign{
+        .calltodesign, #stylebutton{
 
    font-size: 2.4rem;
-   margin-top: 35px;
+  
 
 
         }
@@ -346,7 +363,7 @@ margin-top: 0px;
             
             margin-top: 20px;
             margin-bottom: 20px;
-            transition: 0.7s;
+            transition: 0.3s;
             align-items: center;
             
             
@@ -393,17 +410,7 @@ margin-top: 0px;
         
         }
 
-        #stylebutton{
-
-            position: absolute;
-            top: 133px;
-            left: 100px;
-            font-size: 2rem;
-            background-color: transparent;
-            border: 1px solid black;
-            border-radius: 2px;
-        }
-
+        
        
 
         .doodle{
@@ -466,6 +473,7 @@ margin-top: 0px;
               align-items: center;
               grid-column-gap: 30px;
               grid-row-gap: 15px;
+              margin-top: 60px;
              /*position: absolute;*/
              /*height: 600px;*/
                 
@@ -493,13 +501,14 @@ margin-top: 0px;
                text-align: center;
                
             }
-
+            
+            
            
             
-            .calltodesign{
+            .calltodesign, #stylebutton{
 
                 font-size: 1.5rem;
-                margin-top: 35px;
+                
 
              
                      }
@@ -597,16 +606,7 @@ margin-top: 0px;
             
             }
             
-            #stylebutton{
-
-                position: absolute;
-                top: 310px;
-                left: 300px;
-                font-size: 1.5rem;
-                background-color: transparent;
-                border: 1px solid black;
-                border-radius: 2px;
-            }
+            
             
             #results{
 
