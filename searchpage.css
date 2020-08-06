@@ -159,8 +159,8 @@ width: 100%;
     align-items: center;
     border-radius: 10px;
     padding: 0px;
-    background-image:-webkit-linear-gradient(180deg, rgb(2, 85, 78) 0%, 
-    rgba(72, 252, 252, 0.539) 52%, rgba(219, 251, 253, 0.578) 95%); ;
+    background-image:-webkit-linear-gradient(135deg, rgb(86, 255, 213) 0%, 
+    rgba(218, 245, 243, 0.539) 52%, rgba(69, 238, 238, 0.578) 97%); ;
 
 }
 
@@ -217,7 +217,7 @@ margin-top: 0px;
 }
 
 #styleindicator{
-    background-color: rgb(249, 252, 252);
+    background-color:#f0f0f0;
     outline: none;
     border-radius: 0px 0px 10px 10px;
    width: 100%;
