@@ -160,7 +160,7 @@ width: 100%;
     border-radius: 10px;
     padding: 0px;
     background-image:-webkit-linear-gradient(135deg, rgb(15, 160, 136) 0%, 
-    rgba(140, 236, 230, 0.952) 52%, rgba(123, 247, 247, 0.664) 97%); ;
+    rgba(140, 236, 230, 0.952) 100%, rgba(123, 247, 247, 0.664) 150%); ;
 
 }
 
