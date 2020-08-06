@@ -125,8 +125,9 @@ width: 100%;
     align-items: center;
     border-radius: 3px;
     padding: 0px;
-    background-color: rgb(4, 73, 78);
-    cursor: pointer;
+    background-image:-webkit-linear-gradient(135deg, rgb(46, 248, 188) 0%, 
+    rgba(180, 244, 248, 0.539) 52%, rgba(4, 95, 102, 0.578) 97%); 
+    ;    cursor: pointer;
 
 }
 
@@ -155,7 +156,8 @@ width: 100%;
     align-items: center;
     border-radius: 10px;
     padding: 0px;
-    background-color:teal;
+    background-image:-webkit-linear-gradient(135deg, rgb(86, 255, 204) 0%, 
+    rgba(218, 234, 245, 0.539) 52%, rgba(5, 145, 155, 0.578) 97%); 
     ;
 
 }
