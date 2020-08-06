@@ -99,14 +99,8 @@ function downloadimage() {
 
 
         saveAs(link) //download png file userside
-        reloadpage()
     }
-    function reloadpage() {
-
-
-        window.location.reload()
-
-    }
+    
 
 
 
