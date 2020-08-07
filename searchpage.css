@@ -326,8 +326,8 @@ margin-top: 0px;
             width:100%;
           justify-content: center;  
           align-items: center;
-          grid-column-gap: 80px;
-          grid-row-gap: 5px;
+          grid-column-gap: 70px;
+          grid-row-gap: 30px;
         /* position: absolute;*/
          /*height: 600px;*/
             top:305px;
@@ -387,7 +387,7 @@ margin-top: 0px;
             align-items: center;
             border-radius: 10px;
             padding: 0px;
-            background-color:teal;
+            
             ;
         
         }
@@ -560,8 +560,7 @@ margin-top: 0px;
                 align-items: center;
                 border-radius: 10px;
                 padding: 0px;
-                background-color:teal;
-                ;
+                
             
             }
             
