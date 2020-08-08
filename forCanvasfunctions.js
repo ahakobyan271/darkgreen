@@ -142,14 +142,14 @@ fabric.Object.prototype.transparentCorners = false;
 fabric.Object.prototype.cornerSize = 15;
 fabric.Object.prototype.cornerColor = 'rgb(126, 167, 156)';
 
-fabric.Object.prototype.cornerStyle = 'circle';
+fabric.Object.prototype.cornerStyle = 'square';
 fabric.Object.prototype.hasControls = true;
 fabric.Object.prototype.hasBorders = true;
 fabric.Object.prototype.borderColor = 'rgb(126, 167, 156)';
 fabric.Object.prototype.borderSize = 6;
 
 canvas.defaultCursor = "pointer";
-canvas.selection = false;
+canvas.selection = true;
 
 canvas.on('selection:created', function (ev) {
     ev.target.set({
