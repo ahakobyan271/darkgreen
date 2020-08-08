@@ -139,12 +139,14 @@ img.src = deleteIcon;
 fabric.Object.prototype.transparentCorners = false;
 
 //fabric.Object.prototype.cornerColor = 'grey';
-fabric.Object.prototype.cornerSize = 15;
+fabric.Object.prototype.cornerSize = 30;
 fabric.Object.prototype.cornerColor = 'rgb(126, 167, 156)';
-
-fabric.Object.prototype.cornerStyle = 'square';
+fabric.Object.prototype.rotatingPointOffset = 65;
+fabric.Object.prototype.cornerStyle = 'circle';
 fabric.Object.prototype.hasControls = true;
 fabric.Object.prototype.hasBorders = true;
+
+
 fabric.Object.prototype.borderColor = 'rgb(126, 167, 156)';
 fabric.Object.prototype.borderSize = 6;
 
@@ -165,10 +167,14 @@ canvas.on('object:added', function (ev) {
         lockScalingY: true
 
     });
-    console.log(ev.target.price)
+    // console.log(ev.target.price)
 
 
 });
+
+
+
+
 
 /*delete  icon*/
 
