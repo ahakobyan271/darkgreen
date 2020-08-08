@@ -8,7 +8,7 @@ canvas.on('mouse:wheel', function (opt) {  //desktop zoom in out
     var delta = opt.e.deltaY;
     var zoom = canvas.getZoom();
     zoom *= 0.999 ** delta;
-    if (zoom > 0.8) zoom = 0.8;
+    if (zoom > 1.3) zoom = 1.3;
     if (zoom < 0.3) zoom = 0.3;
     canvas.zoomToPoint({ x: opt.e.offsetX, y: opt.e.offsetY }, zoom);
     opt.e.preventDefault();
@@ -100,7 +100,7 @@ function downloadimage() {
 
         saveAs(link) //download png file userside
     }
-    
+
 
 
 
@@ -149,7 +149,7 @@ fabric.Object.prototype.borderColor = 'rgb(126, 167, 156)';
 fabric.Object.prototype.borderSize = 6;
 
 canvas.defaultCursor = "pointer";
-canvas.selection = true;
+canvas.selection = false;
 
 canvas.on('selection:created', function (ev) {
     ev.target.set({
