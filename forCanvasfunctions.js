@@ -160,7 +160,7 @@ canvas.on('selection:created', function (ev) {
 });
 
 canvas.on('object:added', function (ev) {
-    ev.target.scale(0.9).set({
+    ev.target.scale(0.5).set({
         top: 150, left: 230,
         lockScalingX: true,                     /*lockscaling of single item*/
         lockScalingY: true
