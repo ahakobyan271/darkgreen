@@ -161,6 +161,30 @@ function gotprice() {  //send totalprice to us
   document.getElementById('ordereditemprice').innerHTML = "Total price: " + "$" + gotprice
 
 
+  //make discount based on promocode
+
+  var promo = document.getElementById('promo')
+
+  var promoarray = ["anush", "janna", "mher"]
+
+  promo.addEventListener('input', makediscount)
+
+  function makediscount() {
+    //console.log(promo.value)
+
+    for (var item in promoarray) {
+      if (promoarray[item] === promo.value) {
+        // alert("it workerd")
+        gotprice = gotprice - gotprice * 0.05
+        //console.log(gotprice)
+        document.getElementById('price').value = "$" + gotprice
+        document.getElementById('ordereditemprice').innerHTML = "Total price: " + "$" + gotprice
+
+      }
+    }
+  }
+
+
 
 }
 gotprice()
@@ -187,3 +211,8 @@ window.onbeforeunload = function (e) {
   //if (back == true) 
   return "Are you sure to exit?";
 }
+
+
+
+
+

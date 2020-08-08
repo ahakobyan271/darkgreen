@@ -139,11 +139,12 @@ img.src = deleteIcon;
 fabric.Object.prototype.transparentCorners = false;
 
 //fabric.Object.prototype.cornerColor = 'grey';
-fabric.Object.prototype.cornerSize = 50;
+fabric.Object.prototype.cornerSize = 34;
 fabric.Object.prototype.cornerColor = 'rgb(126, 167, 156)';
 fabric.Object.prototype.cornerStyle = 'circle';
 fabric.Object.prototype.hasControls = true;
 fabric.Object.prototype.hasBorders = true;
+
 
 
 fabric.Object.prototype.borderColor = 'rgb(126, 167, 156)';
