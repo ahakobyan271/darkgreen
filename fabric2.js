@@ -29798,7 +29798,7 @@ fabric.util.object.extend(fabric.IText.prototype, /** @lends fabric.IText.protot
     position: { x: 0, y: -0.5 },
     actionHandler: controlHandlers.rotationWithSnapping,
     cursorStyleHandler: controlHandlers.rotationStyleHandler,
-    offsetY: -80,
+    offsetY: -120,
     withConnection: false,
     actionName: 'rotate',
 
