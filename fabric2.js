@@ -29799,8 +29799,9 @@ fabric.util.object.extend(fabric.IText.prototype, /** @lends fabric.IText.protot
     actionHandler: controlHandlers.rotationWithSnapping,
     cursorStyleHandler: controlHandlers.rotationStyleHandler,
     offsetY: -80,
-    withConnection: true,
+    withConnection: false,
     actionName: 'rotate',
+
   });
 
   if (fabric.Textbox) {
