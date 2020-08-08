@@ -165,7 +165,7 @@ function gotprice() {  //send totalprice to us
 
   var promo = document.getElementById('promo')
 
-  var promoarray = ["anush", "janna", "mher"]
+  var promoarray = ["Anush", "janna", "mher"]
 
   promo.addEventListener('input', makediscount)
 
@@ -173,7 +173,7 @@ function gotprice() {  //send totalprice to us
     //console.log(promo.value)
 
     for (var item in promoarray) {
-      if (promoarray[item] === promo.value) {
+      if (promoarray[item].toLowerCase() === promo.value.toLowerCase()) {
         // alert("it workerd")
         gotprice = gotprice - gotprice * 0.05
         //console.log(gotprice)
