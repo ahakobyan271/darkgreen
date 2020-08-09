@@ -151,7 +151,7 @@ function uniquepromo() {
   //console.log(promoforcheck.value)
   //console.log(promo.value)
 
-
+  document.getElementById('heading').classList.add('hidden')
 
   for (var item in promoarray) {
     if (promoarray[item].toLowerCase() === promoforcheck.value.toLowerCase()) {
