@@ -158,7 +158,7 @@ function uniquepromo() {
       alert("This Promo code already exists, please register another one.")
       promoforcheck.value = ""
       promo.value = " "
-      //preventDefault()
+
 
     }
     else {
