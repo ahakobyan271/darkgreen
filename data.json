@@ -2070,5 +2070,21 @@
         "weight": 1,
         "material": "925 silver",
         "photo": "image/earcuffthinchain.png"
+    },
+    "286": {
+        "id": "286",
+        "name": "drop, connector",
+        "price": 5,
+        "weight": 2.5,
+        "material": "Gold plated 925 silver",
+        "photo": "imagegold/bulavkaside.png"
+    },
+    "287": {
+        "id": "287",
+        "name": "drop, connector",
+        "price": 4,
+        "weight": 2.5,
+        "material": "925 silver",
+        "photo": "image/bulavkaside.png"
     }
 }

@@ -6,28 +6,34 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="contact form example">
   <link rel="shortcut icon" type="image/png" href="image/logo1.png">
-  <title>Order form</title>
+  <title>Promo code</title>
 </head>
 
 <body>
 
-  <h2>Your latest design</h2>
+  <h2>Register your promo code</h2>
 
   <!-- START HERE -->
+  <link rel="shortcut icon" type="image/png" href="image/logo1.png">
   <link rel="stylesheet" href="pure.css">
   <link rel="stylesheet" href="styleformsubmission.css">
 
-  <img src="" id="ordereditem" alt="">
-  <h2 id="ordereditemprice"></h2>
 
-  <form class="gform pure-form pure-form-stacked" method="POST" data-email="profine.digital@gmail.com"
-    action="https://script.google.com/macros/s/AKfycbzm9VDZcbmN80xgdufz11Pfa-2s0b0fHHBGMrLNNL0eTrxdryew/exec">
+
+  <form id="theFormID" class="gform pure-form pure-form-stacked" method="POST" data-email="profine.digital@gmail.com"
+    action="https://script.google.com/macros/s/AKfycbxPzXdrFgLCjuLw94FFuzXxx7UPTfZKZDBsXfNV3uMEDuB3knNs/exec">
 
 
     <!-- change the form action to your script url -->
 
+    <fieldset class="promo-check">
+      <label for="promo-forcheck">Promo code: </label>
+      <input id="promo-forcheck" required placeholder="  " />
+    </fieldset>
+
+
     <div class="form-elements">
-      <fieldset class="pure-group">
+      <fieldset class="pure-group hidden">
         <label for="promo">Promo code: </label>
         <input id="promo" name="promo" placeholder="  " />
       </fieldset>
@@ -53,8 +59,8 @@
 
 
       <fieldset class="pure-group">
-        <label for="message">Message: </label>
-        <textarea id="message" name="message" rows="10" placeholder=" "></textarea>
+        <label for="social">Social media account: </label>
+        <input id="social" name="social" placeholder=" "></input>
       </fieldset>
 
 
@@ -66,40 +72,27 @@
           Must be a valid email address</span>
       </fieldset>
 
-      <fieldset class="pure-group hidden">
-        <label for="price">price: </label>
-        <input id="price" name="price" placeholder="price" />
-      </fieldset>
-
-      <fieldset class="pure-group hidden">
-        <label for="idner">idner: </label>
-        <input id="idner" name="idner" placeholder="idner" />
-      </fieldset>
-
-      <fieldset class="pure-group hidden">
-        <label for="name">image: </label>
-        <input id="image" name="image" placeholder="What your Mom calls you" />
-      </fieldset>
 
 
 
 
 
 
-      <button>
-        Submit your design</button>
+
+      <button id="submitpromo" class="">
+        Submit your Promo code</button>
     </div>
 
     <!-- Customise the Thankyou Message People See when they submit the form: -->
     <div class="thankyou_message" style="display:none;">
       <h2><em>Thanks</em> for using our service!
-        We will study the design and get back to you soon!</h2>
+        We will get back to you soon!</h2>
     </div>
 
   </form>
 
   <!-- Submit the Form to Google Using "AJAX" -->
-  <script data-cfasync="false" type="text/javascript" src="order-submission-handler.js"></script>
+  <script data-cfasync="false" type="text/javascript" src="promocode-submission-handler.js"></script>
 
 
   <!-- END -->

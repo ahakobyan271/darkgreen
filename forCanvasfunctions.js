@@ -381,7 +381,7 @@ function calctotal() {
     }
 
 
-    console.log(total)
+  /*  console.log(total)
     if (obj.length > 6 && total > 30) {
 
         //console.log(total);
@@ -407,7 +407,7 @@ function calctotal() {
         total -= (total * 0.25);
 
 
-    }
+    }*/
 
 
 

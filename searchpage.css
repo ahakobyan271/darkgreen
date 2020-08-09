@@ -69,7 +69,7 @@ body{
     transition: 0.5s;
 }
 
-.calltodesign, #stylebutton{
+.calltodesign, #stylebutton, .promo{
 
     text-decoration: none;
     color: rgb(20, 20, 20);
@@ -81,15 +81,24 @@ body{
     border: 1px solid rgb(119, 119, 119); 
     padding: 5px 35px 6px 35px;
     border-radius: 2px;
+    align-items: center;
+    justify-content: center;
    
    margin-right: 10px;
     cursor: pointer;
 
 }
+
+
+
 .calltodesign:hover{
     box-shadow: 4px 5px 10px rgb(99, 98, 98);
   }
   #stylebutton:hover{
+    box-shadow: 4px 5px 10px rgb(99, 98, 98);
+  }
+
+  .promo:hover{
     box-shadow: 4px 5px 10px rgb(99, 98, 98);
   }
 
@@ -272,7 +281,7 @@ margin-top: 0px;
         width: 50%;
         justify-content:center;
         
-        margin-top: 50px;
+        margin-top: 30px;
     }
     
 
@@ -347,9 +356,12 @@ margin-top: 0px;
             width: 360px;
         }
         
-        .calltodesign, #stylebutton{
+        .calltodesign, #stylebutton, .promo {
 
    font-size: 2.4rem;
+   align-items: center;
+   justify-content: center;
+   
   
 
 
@@ -393,7 +405,22 @@ margin-top: 0px;
         }
         
         
+        .button-wrapper{
+            display: flex;
+            flex-wrap: wrap;
 
+            width: 100%;
+            justify-content:center;
+            
+            
+            
+        }
+        .button-wrapper >*{
+            margin-top: 20px;
+            
+            
+        }
+        
        
         
         .searchwrapper{
@@ -508,7 +535,7 @@ margin-top: 0px;
             
            
             
-            .calltodesign, #stylebutton{
+            .calltodesign, #stylebutton, .promo{
 
                 font-size: 1.5rem;
                 
