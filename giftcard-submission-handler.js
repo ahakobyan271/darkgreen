@@ -136,84 +136,39 @@
 
 
 
+document.getElementById('sender').addEventListener('input', fillfrom)
 
 
-
-
-//data transition from user to us
-
-
-function getimgls() {  //send image to us
-  var retrieved = localStorage.getItem('img')
-  //console.log(retrieved)
-  document.getElementById('image').value = retrieved
-  document.getElementById('ordereditem').src = retrieved
-
+function fillfrom() {
+  document.getElementById('from').innerHTML = "From:  " + document.getElementById('sender').value
 
 }
 
-getimgls()
 
-function gotprice() {  //send totalprice to us
-  var gotprice = localStorage.getItem('total price')
-  //console.log(retrieved)
-  document.getElementById('price').value = "$" + gotprice
-  document.getElementById('ordereditemprice').innerHTML = "Total price: " + "$" + gotprice
-  document.getElementById('price without promo discount').value = "$" + gotprice
+document.getElementById('recipient').addEventListener('input', fillto)
 
 
-  //make discount based on promocode
-
-  var promo = document.getElementById('promo')
-
-  var promoarray = ["Anush", "janna", "mher"]
-
-  promo.addEventListener('input', makediscount)
-
-  function makediscount() {
-    //console.log(promo.value)
-
-    for (var item in promoarray) {
-      if (promoarray[item].toLowerCase() === promo.value.toLowerCase()) {
-        // alert("it workerd")
-        gotprice = Math.round((gotprice - gotprice * 0.05) * 100) / 100
-        //console.log(gotprice)
-        document.getElementById('price').value = "$" + gotprice
-        document.getElementById('ordereditemprice').innerHTML = "Total price: " + "$" + gotprice
-
-      }
-    }
-  }
-
-
-
-}
-gotprice()
-
-
-
-
-
-function getidner() {  //send idner to us
-  var gotidner = localStorage.getItem('idner')
-  //console.log(retrieved)
-  document.getElementById('idner').value = gotidner
-
-
+function fillto() {
+  document.getElementById('to').innerHTML = "To:  " + document.getElementById('recipient').value
+  fillgiftcode()
 }
 
-getidner()
+
+document.getElementById('sum').addEventListener('input', fillsum)
 
 
-//alert are you sure you want to leave?
-//var back = false;
-//back = true; //Somewhere, the condition is set to true
-/*window.onbeforeunload = function (e) {
-  //if (back == true)
-  return "Are you sure to exit?";
-}*/
-
+function fillsum() {
+  document.getElementById('giftsum').innerHTML = "To:  " + document.getElementById('sum').value
+  fillgiftcode()
+}
 
 
 
+
+
+function fillgiftcode() {
+  document.getElementById('giftcode').innerHTML = "Promo code:  " + document.getElementById('recipient').value + document.getElementById('sum').value
+  document.getElementById('giftpromocode').value = document.getElementById('recipient').value + document.getElementById('sum').value
+
+}
 

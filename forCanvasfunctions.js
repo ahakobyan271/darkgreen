@@ -1,7 +1,49 @@
-var canvas = new fabric.Canvas('c10', { width: 920, height: 850, top: 60, backgroundColor: "rgb(4, 73, 78)" });
+//var canvas = new fabric.Canvas('c10', { width: 920, height: 850, top: 60, backgroundColor: "rgb(4, 73, 78)" });
+
+
+// canvas responsive website resize
+
+var width = 900;
+var height = 700;
+var widthscaleFactor = 1;
+var heightscaleFactor = 1;
 
 
 
+
+if (screen.width < 500) {
+    widthscaleFactor = 0.38;
+    heightscaleFactor = 0.55
+} else if (screen.width > 500 && screen.width < 800) {
+    widthscaleFactor = 0.8;
+    heightscaleFactor = 0.7
+}
+else if (screen.width >= 800) {
+    widthscaleFactor = 1;
+    heightscaleFactor = 0.92
+}
+
+
+
+width = width * widthscaleFactor;
+height = height * heightscaleFactor;
+
+var canvas = new fabric.Canvas('c10', { top: 60, backgroundColor: "rgb(4, 73, 78)" });
+
+canvas.setWidth(width);
+canvas.setHeight(height);
+canvas.calcOffset();
+
+//Add Rectangles, Images etc...
+
+/*if (scaleFactor != 1) {
+    for (var i = 0; i < canvas._objects.length; i++) {
+        canvas._objects[i].scale(scaleFactor);
+        canvas._objects[i].setLeft(canvas._objects[i].left * scaleFactor);
+        canvas._objects[i].setTop(canvas._objects[i].top * scaleFactor);
+    }
+    canvas.renderAll();
+}*/
 
 
 canvas.on('mouse:wheel', function (opt) {  //desktop zoom in out
@@ -95,7 +137,7 @@ function downloadimage() {
     })
 
     function savewithwatermark() {
-        var link = canvas.toDataURL("image/png")
+        var link = canvas.toDataURL({ multiplier: 5 })
 
 
         saveAs(link) //download png file userside
@@ -161,12 +203,23 @@ canvas.on('selection:created', function (ev) {
 });
 
 canvas.on('object:added', function (ev) {
-    ev.target.scale(0.5).set({
-        top: 150, left: 230,
-        lockScalingX: true,                     /*lockscaling of single item*/
-        lockScalingY: true
+    if (screen.width < 500) {
+        ev.target.scale(0.35).set({
+            top: 50, left: 100,
+            lockScalingX: true,                     /*lockscaling of single item*/
+            lockScalingY: true
 
-    });
+        });
+    }
+    else {
+        ev.target.scale(0.5).set({
+            top: 150, left: 230,
+            lockScalingX: true,                     /*lockscaling of single item*/
+            lockScalingY: true
+
+        });
+
+    }
     // console.log(ev.target.price)
 
 
@@ -286,7 +339,7 @@ button1.addEventListener('click', function () {
 
 
 
-$(function () {
+/*$(function () {
     $('.unclicked').on('click', function () {
         $(this).toggleClass('clicked');
         $(this).siblings().removeClass('clicked');
@@ -294,7 +347,7 @@ $(function () {
 
     });
 
-});
+});*/
 
 
 
@@ -367,7 +420,7 @@ function calctotal() {
     var idner = 0
     for (let i = 0; i < obj.length; i++) {
 
-
+        //console.log(obj[i].price)
 
         total += obj[i].price
 
@@ -381,36 +434,37 @@ function calctotal() {
     }
 
 
-  /*  console.log(total)
-    if (obj.length > 6 && total > 30) {
+    /*  console.log(total)
+      if (obj.length > 6 && total > 30) {
+  
+          //console.log(total);
+  
+  
+          total -= (total * 0.05);
+  
+  
+      }
+      else if (obj.length > 10 && total > 40) {
+          //console.log(obj.length);
+  
+  
+          total -= (total * 0.2);
+  
+  
+      }
+  
+      else if (obj.length > 15 && total > 50) {
+          //console.log(obj.length);
+  
+  
+          total -= (total * 0.25);
+  
+  
+      }*/
 
-        //console.log(total);
 
-
-        total -= (total * 0.05);
-
-
-    }
-    else if (obj.length > 10 && total > 40) {
-        //console.log(obj.length);
-
-
-        total -= (total * 0.2);
-
-
-    }
-
-    else if (obj.length > 15 && total > 50) {
-        //console.log(obj.length);
-
-
-        total -= (total * 0.25);
-
-
-    }*/
-
-
-
+    total = Math.round(total * 100) / 100
+    //console.log(total)
 
     totalPrice.innerHTML = "Total:" + "$" + total
 
@@ -434,7 +488,10 @@ canvas.on('object:removed', function () {
 
 
 
+document.querySelectorAll('img').onload = function () {
 
+    document.querySelector('.loader').classList.add('hidden')
+}
 
 
 

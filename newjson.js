@@ -96,14 +96,16 @@ function loadgoods() {
             document.getElementById("general1").innerHTML = `
         ${general.map(function (search) {
 
+
+
                 return `<div class="cell" data-art=${search.id}  >
             <img data-price=${search.price} class="detail img "   src="${search.photo}"   >
             
             
             
-            <p class="genarray"  >${search.name}</p>
+           
             <p class="genarray"  >${search.material}</p>
-            <p class="genarray" >$${search.weight * 3}</p>
+            <p class="genarray" >$${Math.round((search.weight * 6 * search.plating) * 100) / 100}</p>
            
             <p  class="addtodesignBtn ">Add to my design</p>
             
@@ -235,19 +237,106 @@ document.querySelector('.fa').addEventListener('click', function (e) { //show th
 
 var styles = [
     {
+        name: "Mannequins",
+        searchname: "mannequin",
+
+        photo: "image/mannequinicon.png"
+
+    },
+    {
+        name: "Earcuff earrings",
+        searchname: "chainearcuff",
+
+        photo: "image/earcuffchain.png"
+
+    },
+
+
+    {
+        name: "Hoops",
+        searchname: "hoop",
+
+
+        photo: "image/hoopicon.png"
+
+    },
+
+    {
+        name: "Climber earrings",
+        searchname: "climber",
+        photo: "image/climbericon.png"
+
+    },
+
+    {
+        name: "Earcuffs",
+        searchname: "earcuffs",
+        photo: "image/earcufficon.png"
+
+    },
+
+    {
+        name: "Connectors",
+        searchname: "connector",
+        photo: "image/connecticon.png"
+
+    },
+    {
+        name: "Drop earrings ",
+        searchname: "drop",
+        photo: "image/dropearringicon.png"
+
+    },
+
+    {
+        name: "Small size",
+        searchname: "small",
+
+        photo: "image/smalldetailicon2.png"
+
+    },
+    {
+        name: "Medium size ",
+        searchname: "medium",
+
+        photo: "image/mediumdetailicon2.png"
+
+    },
+    {
+        name: "Large size",
+        searchname: "large",
+
+        photo: "image/largedetailicon.png"
+
+    },
+    {
+        name: "Rings",
+        searchname: "rings",
+        photo: "image/ringsicon.png"
+
+    },
+
+    {
+        name: "Connected rings",
+        searchname: "rings",
+        photo: "image/doubleringicon.png"
+
+    },
+
+    {
         name: "Sea",
         searchname: "sea",
 
         photo: "image/seaicon.png"
 
     },
-    {
-        name: "Letters",
-        searchname: "letters",
-
-        photo: "image/lettericon.png"
-
-    },
+    /* {
+         name: "Letters",
+         searchname: "letters",
+ 
+         photo: "image/lettericon.png"
+ 
+     },*/
 
     {
         name: "Butterflies",
@@ -291,42 +380,16 @@ var styles = [
 
     },
 
-    {
-        name: "Gems",
-        searchname: "gems",
+    /* {
+         name: "Gems",
+         searchname: "gems",
+ 
+         photo: "image/gemicon.png"
+ 
+     },*/
 
-        photo: "image/gemicon.png"
 
-    },
 
-    {
-        name: "Mannequins",
-        searchname: "mannequin",
-
-        photo: "image/mannequinicon.png"
-
-    },
-    {
-        name: "Small size",
-        searchname: "small",
-
-        photo: "image/smalldetailicon2.png"
-
-    },
-    {
-        name: "Medium size ",
-        searchname: "medium",
-
-        photo: "image/mediumdetailicon2.png"
-
-    },
-    {
-        name: "Large size",
-        searchname: "large",
-
-        photo: "image/largedetailicon.png"
-
-    },
     {
         name: "Zodiac",
         searchname: "zodiac",
@@ -336,86 +399,26 @@ var styles = [
     },
 
 
-    {
-        name: "Earcuff earrings",
-        searchname: "chainearcuff",
 
-        photo: "image/earcuffchain.png"
-
-    },
-
-
-    {
-        name: "Hoops",
-        searchname: "hoop",
-
-
-        photo: "image/hoopicon.png"
-
-    },
-
-    {
-        name: "Climber earrings",
-        searchname: "climber",
-        photo: "image/climbericon.png"
-
-    },
-    {
-        name: "Stud earrings",
-        searchname: "stud",
-        photo: "image/studicon.png"
-
-    },
-    {
-        name: "Earcuffs",
-        searchname: "earcuffs",
-        photo: "image/earcufficon.png"
-
-    },
-
-    {
-        name: "Statement earrings",
-        searchname: "statementearring",
-        photo: "image/statementicon.png"
-
-    },
-    {
-        name: "Drop earrings ",
-        searchname: "drop",
-        photo: "image/dropearringicon.png"
-
-    },
     {
         name: "Ring bracelets",
         searchname: "bracelet",
         photo: "image/ringbraceleticon.png"
 
     },
-    {
+    /*{
         name: "Helix bracelets",
         searchname: "bracelet",
         photo: "image/helixbraceleticon.png"
 
-    },
+    },*/
     {
         name: "Bracelets",
         searchname: "bracelet",
         photo: "image/bracelets.png"
 
     },
-    {
-        name: "Rings",
-        searchname: "rings",
-        photo: "image/ringsicon.png"
 
-    },
-
-    {
-        name: "Connected rings",
-        searchname: "rings",
-        photo: "image/doubleringicon.png"
-
-    },
     {
         name: "Necklaces",
         searchname: "necklaces",
@@ -471,19 +474,106 @@ function returnstyles(styles) {
     var styles = [
 
         {
+            name: "Mannequins",
+            searchname: "mannequin",
+
+            photo: "image/mannequinicon.png"
+
+        },
+        {
+            name: "Earcuff earrings",
+            searchname: "chainearcuff",
+
+            photo: "image/earcuffchain.png"
+
+        },
+
+
+        {
+            name: "Hoops",
+            searchname: "hoop",
+
+
+            photo: "image/hoopicon.png"
+
+        },
+
+        {
+            name: "Climber earrings",
+            searchname: "climber",
+            photo: "image/climbericon.png"
+
+        },
+
+        {
+            name: "Earcuffs",
+            searchname: "earcuffs",
+            photo: "image/earcufficon.png"
+
+        },
+
+        {
+            name: "Connectors",
+            searchname: "connector",
+            photo: "image/connecticon.png"
+
+        },
+        {
+            name: "Drop earrings ",
+            searchname: "drop",
+            photo: "image/dropearringicon.png"
+
+        },
+
+        {
+            name: "Small size",
+            searchname: "small",
+
+            photo: "image/smalldetailicon2.png"
+
+        },
+        {
+            name: "Medium size ",
+            searchname: "medium",
+
+            photo: "image/mediumdetailicon2.png"
+
+        },
+        {
+            name: "Large size",
+            searchname: "large",
+
+            photo: "image/largedetailicon.png"
+
+        },
+        {
+            name: "Rings",
+            searchname: "rings",
+            photo: "image/ringsicon.png"
+
+        },
+
+        {
+            name: "Connected rings",
+            searchname: "rings",
+            photo: "image/doubleringicon.png"
+
+        },
+
+        {
             name: "Sea",
             searchname: "sea",
 
             photo: "image/seaicon.png"
 
         },
-        {
-            name: "Letters",
-            searchname: "letters",
-
-            photo: "image/lettericon.png"
-
-        },
+        /* {
+             name: "Letters",
+             searchname: "letters",
+     
+             photo: "image/lettericon.png"
+     
+         },*/
 
         {
             name: "Butterflies",
@@ -527,42 +617,16 @@ function returnstyles(styles) {
 
         },
 
-        {
-            name: "Gems",
-            searchname: "gems",
+        /* {
+             name: "Gems",
+             searchname: "gems",
+     
+             photo: "image/gemicon.png"
+     
+         },*/
 
-            photo: "image/gemicon.png"
 
-        },
 
-        {
-            name: "Mannequins",
-            searchname: "mannequin",
-
-            photo: "image/mannequinicon.png"
-
-        },
-        {
-            name: "Small size",
-            searchname: "small",
-
-            photo: "image/smalldetailicon2.png"
-
-        },
-        {
-            name: "Medium size ",
-            searchname: "medium",
-
-            photo: "image/mediumdetailicon2.png"
-
-        },
-        {
-            name: "Large size",
-            searchname: "large",
-
-            photo: "image/largedetailicon.png"
-
-        },
         {
             name: "Zodiac",
             searchname: "zodiac",
@@ -572,93 +636,32 @@ function returnstyles(styles) {
         },
 
 
-        {
-            name: "Earcuff earrings",
-            searchname: "chainearcuff",
 
-            photo: "image/earcuffchain.png"
-
-        },
-
-
-        {
-            name: "Hoops",
-            searchname: "hoop",
-
-
-            photo: "image/hoopicon.png"
-
-        },
-
-        {
-            name: "Climber earrings",
-            searchname: "climber",
-            photo: "image/climbericon.png"
-
-        },
-        {
-            name: "Stud earrings",
-            searchname: "stud",
-            photo: "image/studicon.png"
-
-        },
-        {
-            name: "Earcuffs",
-            searchname: "earcuffs",
-            photo: "image/earcufficon.png"
-
-        },
-
-        {
-            name: "Statement earrings",
-            searchname: "statementearring",
-            photo: "image/statementicon.png"
-
-        },
-        {
-            name: "Drop earrings ",
-            searchname: "drop",
-            photo: "image/dropearringicon.png"
-
-        },
         {
             name: "Ring bracelets",
             searchname: "bracelet",
             photo: "image/ringbraceleticon.png"
 
         },
-        {
+        /*{
             name: "Helix bracelets",
             searchname: "bracelet",
             photo: "image/helixbraceleticon.png"
-
-        },
+    
+        },*/
         {
             name: "Bracelets",
             searchname: "bracelet",
             photo: "image/bracelets.png"
 
         },
-        {
-            name: "Rings",
-            searchname: "rings",
-            photo: "image/ringsicon.png"
 
-        },
-
-        {
-            name: "Connected rings",
-            searchname: "rings",
-            photo: "image/doubleringicon.png"
-
-        },
         {
             name: "Necklaces",
             searchname: "necklaces",
             photo: "image/necklaceicon.png"
 
         }
-
 
 
     ]
@@ -695,9 +698,9 @@ function returnstyles(styles) {
             
             
            
-            <p class="genarray"  >${search.name}</p>
+            
             <p class="genarray"  >${search.material}</p>
-            <p class="genarray" >$${search.weight * 3}</p>
+            <p class="genarray" >$${Math.round((search.weight * 6 * search.plating) * 100) / 100}</p>
            
             <p  class="addtodesignBtn ">Add to my design</p>
             
