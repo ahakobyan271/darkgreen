@@ -25,7 +25,7 @@ body{
 
 .loader{
     position: fixed;
-    z-index: 99;
+    /*z-index: 99;*/
     top: 0;
     left: 0;
     width: 100%;
@@ -34,6 +34,16 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    opacity: 1;
+    transition: 2s;
+    
+}
+
+.page-loaded{
+
+    opacity: 0;
+    transform: translateX(400px);
+    
 }
 
     .contactdetails{

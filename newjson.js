@@ -744,3 +744,11 @@ function showbutton() { //show Back button
 
 }
 
+function reveal() { //wait until images are loaded
+
+    document.getElementById('loader').classList.add('page-loaded')
+    console.log("loaded page")
+}
+
+
+window.onload = reveal

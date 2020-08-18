@@ -488,12 +488,6 @@ canvas.on('object:removed', function () {
 
 
 
-document.querySelectorAll('img').onload = function () {
-
-    document.querySelector('.loader').classList.add('hidden')
-}
-
-
 
 
 
