@@ -23,11 +23,11 @@ $.getJSON('data.json', function (data) {
 
     var out = ''
     for (var key in cart) {
-      out += '<div class="cell" data-id=' + data[key]['id'] + ' data-price=' + Math.round((data[key]['weight'] * 6 * data[key]['plating']) * 100) / 100 + ' >';
+      out += '<div class="cell" data-id=' + data[key]['id'] + ' data-price=' + Math.round((data[key]['weight'] * 5 * data[key]['plating']) * 100) / 100 + ' >';
       out += '<img    class="detail img "  src="' + data[key]['photo'] + '"   >';
 
-      out += '<p class="price">$' + Math.round((data[key]['weight'] * 6 * data[key]['plating']) * 100) / 100 + '</p>'
-      //out += '<p class="addtocanvasBtn" data-id=' + data[key]['id'] + ' data-price="' + data[key]['weight'] * 6 + '">Add to canvas</p>'
+      out += '<p class="price">$' + Math.round((data[key]['weight'] * 5 * data[key]['plating']) * 100) / 100 + '</p>'
+      //out += '<p class="addtocanvasBtn" data-id=' + data[key]['id'] + ' data-price="' + data[key]['weight'] * 5 + '">Add to canvas</p>'
       //out+='<button  class="deletebtn" data-art="'+goods[key]['id']+'" >delete</button>'
       out += '<p class="count">  </p>'
 

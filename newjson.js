@@ -105,7 +105,7 @@ function loadgoods() {
             
            
             <p class="genarray"  >${search.material}</p>
-            <p class="genarray" >$${Math.round((search.weight * 6 * search.plating) * 100) / 100}</p>
+            <p class="genarray" >$${Math.round((search.weight * 5 * search.plating) * 100) / 100}</p>
            
             <p  class="addtodesignBtn ">Add to my design</p>
             
@@ -700,7 +700,7 @@ function returnstyles(styles) {
            
             
             <p class="genarray"  >${search.material}</p>
-            <p class="genarray" >$${Math.round((search.weight * 6 * search.plating) * 100) / 100}</p>
+            <p class="genarray" >$${Math.round((search.weight * 5 * search.plating) * 100) / 100}</p>
            
             <p  class="addtodesignBtn ">Add to my design</p>
             
@@ -744,11 +744,10 @@ function showbutton() { //show Back button
 
 }
 
-window.addEventListener('load', function reveal() { //wait until images are loaded
+/*window.addEventListener('load', function reveal() { //wait until images are loaded
 
     document.getElementById('loader').classList.add('page-loaded')
     console.log("loaded page")
-})
+})*/
 
 
-//document.querySelectorAll('img').onload = reveal

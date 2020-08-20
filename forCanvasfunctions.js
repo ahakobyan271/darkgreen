@@ -63,12 +63,7 @@ canvas.on('mouse:wheel', function (opt) {  //desktop zoom in out
 
 
 
-/*window.addEventListener('load', function () {
 
-    var loader = document.querySelector('.loader')
-
-    loader.classList.add('hidden')
-})*/
 
 
 

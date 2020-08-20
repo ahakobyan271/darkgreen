@@ -158,7 +158,7 @@ document.getElementById('sum').addEventListener('input', fillsum)
 
 
 function fillsum() {
-  document.getElementById('giftsum').innerHTML = "To:  " + document.getElementById('sum').value
+  document.getElementById('giftsum').innerHTML = "Sum:  " + document.getElementById('sum').value
   fillgiftcode()
 }
 
@@ -172,3 +172,11 @@ function fillgiftcode() {
 
 }
 
+
+document.getElementById('message').addEventListener('input', fillmessage)
+
+
+function fillmessage() {
+  document.getElementById('yourmessage').innerHTML = document.getElementById('message').value
+
+}

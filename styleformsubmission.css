@@ -11,15 +11,8 @@ aside {
 textarea {
   width: 100%;
 }
-.content-head {
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin: 2em 0 1em;
-}
-.is-center {
-  text-align: center;
-}
+
+
 .button-success {
   color: white;
   border-radius: 4px;
@@ -30,12 +23,13 @@ textarea {
   font-size: 125%;
 }
 button {
-  float: right;
+  
   font-size: 1.5rem;
   background-color: transparent;
   border: 1px solid rgb(255, 255, 255);
   margin-bottom: 80px;
-  margin-right: 30px;
+  margin-right: 20px;
+  margin-left:20px;
   padding: 5px 25px;
   border-radius: 5px;
   box-shadow: 1px 2px 7px #838282;
@@ -52,14 +46,12 @@ outline: none;
 
 button:hover{
   background-color: rgb(199, 247, 247);
-  border: rgb(199, 247, 247);
+  border:1px solid rgb(199, 247, 247);
   
   }
 
 
-#name, #email {
-  width: 50%;
-}
+
 .hidden{
 
   display: none;
@@ -72,4 +64,101 @@ button:hover{
   border: 3px solid rgb(9, 170, 170);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   padding: 3px;
+}
+
+
+.heading{
+
+margin:70px 10px 10px 10px;
+text-align: center;
+
+}
+.pure-group{
+ 
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-elements{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image:-webkit-linear-gradient(135deg, rgb(2, 92, 77) 0%, 
+    rgba(5, 207, 194, 0.952) 100%, rgba(4, 206, 206, 0.664) 150%); ;
+  margin: 10px;
+  
+  border-radius: 10px;
+}
+
+
+
+@media only screen and (min-width: 600px){
+  .form-elements{
+
+   
+    
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+  justify-content: flex-start;
+  
+    margin: 50px;
+  }
+  
+
+  button{
+    font-size: 1.5rem;
+    background-color: transparent;
+    border: 1px solid rgb(255, 255, 255);
+    margin-bottom: 10px;
+    margin-left: 400px;
+    
+    margin-top: 35px;
+    padding: 5px 25px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 7px #838282;
+    transition: 0.5s;
+
+    
+
+  }
+}
+
+@media only screen and (min-width: 1200px){
+  .form-elements{
+
+   
+    
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+  justify-content: flex-start;
+  
+    margin: 50px;
+  }
+  
+  
+
+
+  button{
+    font-size: 1.5rem;
+    background-color: transparent;
+    border: 1px solid rgb(255, 255, 255);
+    margin-bottom: 10px;
+    margin-left: 800px;
+    
+    margin-top: 65px;
+    padding: 5px 25px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 7px #838282;
+    transition: 0.5s;
+
+    
+
+  }
 }
