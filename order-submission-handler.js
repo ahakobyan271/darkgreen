@@ -157,9 +157,9 @@ getimgls()
 function gotprice() {  //send totalprice to us
   var gotprice = localStorage.getItem('total price')
   //console.log(retrieved)
-  document.getElementById('price').value = "$" + gotprice
-  document.getElementById('ordereditemprice').innerHTML = "Total price: " + "$" + gotprice
-  document.getElementById('price without promo discount').value = "$" + gotprice
+  document.getElementById('price').value = gotprice+" amd"
+  document.getElementById('ordereditemprice').innerHTML = "Total price: "  + gotprice+" amd"
+  document.getElementById('price without promo discount').value =  gotprice+" amd"
 
 
   //make discount based on promocode
@@ -178,8 +178,8 @@ function gotprice() {  //send totalprice to us
         // alert("it workerd")
         gotprice = Math.round((gotprice - gotprice * 0.05) * 100) / 100
         //console.log(gotprice)
-        document.getElementById('price').value = "$" + gotprice
-        document.getElementById('ordereditemprice').innerHTML = "Total price: " + "$" + gotprice
+        document.getElementById('price').value = gotprice+" amd"
+        document.getElementById('ordereditemprice').innerHTML = "Total price: " + gotprice+" amd"
 
       }
     }

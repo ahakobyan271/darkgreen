@@ -461,7 +461,7 @@ function calctotal() {
     total = Math.round(total * 100) / 100
     //console.log(total)
 
-    totalPrice.innerHTML = "Total:" + "$" + total
+    totalPrice.innerHTML = "Total:" + total+"amd"
 
     localStorage.setItem("total price", total)
     localStorage.setItem("idner", idner)

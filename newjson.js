@@ -105,7 +105,7 @@ function loadgoods() {
             
            
             <p class="genarray"  >${search.material}</p>
-            <p class="genarray" >$${Math.round((search.weight * 5 * search.plating) * 100) / 100}</p>
+            <p class="genarray" >${Math.round((search.weight * 2500 * search.plating) * 100) / 100} amd</p>
            
             <p  class="addtodesignBtn ">Add to my design</p>
             
@@ -700,7 +700,7 @@ function returnstyles(styles) {
            
             
             <p class="genarray"  >${search.material}</p>
-            <p class="genarray" >$${Math.round((search.weight * 5 * search.plating) * 100) / 100}</p>
+            <p class="genarray" >${Math.round((search.weight * 2500 * search.plating) * 100) / 100} amd</p>
            
             <p  class="addtodesignBtn ">Add to my design</p>
             
