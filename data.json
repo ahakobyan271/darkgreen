@@ -21,7 +21,7 @@
         "id": "5",
         "name": "small",
         "price": 8,
-        "weight": 0.5,
+        "weight": 0.3,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/soli.png"
@@ -30,7 +30,7 @@
         "id": "6",
         "name": "small",
         "price": 8,
-        "weight": 0.5,
+        "weight": 0.3,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/soli.png"
@@ -109,7 +109,7 @@
     },
     "22": {
         "id": "22",
-        "name": "chainearcuff, stud, statementearring, climber, earcuff, drop, mannequin",
+        "name": " mannequin ear",
         "price": 0,
         "weight": 0,
         "material": "Mannequin",
@@ -118,7 +118,7 @@
     },
     "23": {
         "id": "23",
-        "name": "chainearcuff, stud, statementearring, climber, earcuff, drop, mannequin",
+        "name": "mannequin ear",
         "price": 0,
         "weight": 0,
         "material": "Mannequin",
@@ -127,7 +127,7 @@
     },
     "24": {
         "id": "24",
-        "name": "chainearcuff, earcuffs",
+        "name": " earcuffs",
         "price": 6,
         "weight": 1.25,
         "material": "925 silver",
@@ -136,7 +136,7 @@
     },
     "25": {
         "id": "25",
-        "name": "chainearcuff, earcuffs ",
+        "name": "earcuffs ",
         "price": 7,
         "weight": 1.25,
         "photo": "imagegold/ballcuff.png",
@@ -163,43 +163,43 @@
     },
     "28": {
         "id": "28",
-        "name": "chainearcuff, medium",
+        "name": " medium",
         "price": 7,
-        "weight": 1.75,
+        "weight": 1.5,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/braid.png"
     },
     "29": {
         "id": "28",
-        "name": "chainearcuff, medium",
+        "name": " medium",
         "price": 8,
-        "weight": 1.75,
+        "weight": 1.5,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/braid.png"
     },
     "30": {
         "id": "30",
-        "name": "chainearcuff, earcuffs ",
+        "name": "earcuffs ",
         "price": 8,
-        "weight": 1.75,
+        "weight": 1.5,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/braidcuff.png"
     },
     "31": {
         "id": "31",
-        "name": "chainearcuff, earcuffs",
+        "name": "earcuffs",
         "price": 7,
-        "weight": 1.75,
+        "weight": 1.5,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/braidcuff.png"
     },
     "32": {
         "id": "32",
-        "name": "chainearcuff, earcuffs",
+        "name": "earcuffs",
         "price": 7,
         "weight": 1,
         "material": "925 silver",
@@ -208,7 +208,7 @@
     },
     "33": {
         "id": "33",
-        "name": "chainearcuff, earcuffs",
+        "name": "earcuffs",
         "price": 8,
         "weight": 1,
         "material": "Gold plated 925 silver",
@@ -447,7 +447,7 @@
         "price": 5,
         "weight": 0.3,
         "material": "Gold plated 925 silver",
-        "plating": 1.1,
+        "plating": 1,
         "photo": "imagegold/chainkor.png"
     },
     "59": {
@@ -463,7 +463,7 @@
         "id": "60",
         "name": "chainearcuff, drop",
         "price": 5,
-        "weight": 0.5,
+        "weight": 0.4,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/chainshort.png",
@@ -473,7 +473,7 @@
         "id": "61",
         "name": "chainearcuff, drop",
         "price": 5,
-        "weight": 0.5,
+        "weight": 0.4,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/chainshort.png",
@@ -485,7 +485,7 @@
         "price": 5,
         "weight": 0.25,
         "material": "Gold plated 925 silver",
-        "plating": 1.1,
+        "plating": 1,
         "photo": "imagegold/shxta.png",
         "description": "len. 2cm thick 1mm"
     },
@@ -1281,7 +1281,7 @@
         "id": "164",
         "name": "small detail pearls",
         "price": 5,
-        "weight": 1.5,
+        "weight": 1.1,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/konpearl.png"
@@ -1290,7 +1290,7 @@
         "id": "165",
         "name": "small detail pearls",
         "price": 5,
-        "weight": 1.5,
+        "weight": 1.1,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/konpearl.png"
@@ -1449,7 +1449,7 @@
         "id": "182",
         "name": "medium",
         "price": 5,
-        "weight": 0.75,
+        "weight": 1,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/ornatevertical.png"
@@ -1458,7 +1458,7 @@
         "id": "183",
         "name": "medium",
         "price": 6,
-        "weight": 0.75,
+        "weight": 1,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/ornatevertical.png"
@@ -1467,7 +1467,7 @@
         "id": "184",
         "name": "earcuffs",
         "price": 5,
-        "weight": 0.75,
+        "weight": 1,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/ornatecuff.png"
@@ -1476,7 +1476,7 @@
         "id": "185",
         "name": "earcuffs",
         "price": 6,
-        "weight": 0.75,
+        "weight": 1,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/ornatecuff.png"
@@ -1485,7 +1485,7 @@
         "id": "186",
         "name": "medium",
         "price": 5,
-        "weight": 0.75,
+        "weight": 0.85,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/kamar.png"
@@ -1494,7 +1494,7 @@
         "id": "187",
         "name": "medium",
         "price": 6,
-        "weight": 0.75,
+        "weight": 0.85,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/kamar.png"
@@ -1722,7 +1722,7 @@
     },
     "213": {
         "id": "213",
-        "name": "chainearcuffs",
+        "name": "chainearcuff",
         "price": 9,
         "weight": 1,
         "material": "925 silver",
@@ -1839,7 +1839,7 @@
     },
     "226": {
         "id": "226",
-        "name": " chainearcuff ",
+        "name": "earcuffs ",
         "price": 10,
         "weight": 0.5,
         "material": "Gold plated 925 silver",
@@ -1848,7 +1848,7 @@
     },
     "227": {
         "id": "227",
-        "name": " chainearcuff ",
+        "name": "earcuffs ",
         "price": 9,
         "weight": 0.5,
         "material": "925 silver",
@@ -1859,7 +1859,7 @@
         "id": "228",
         "name": "small",
         "price": 10,
-        "weight": 1.5,
+        "weight": 1.1,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/emalcircle.png"
@@ -1868,7 +1868,7 @@
         "id": "229",
         "name": "small",
         "price": 9,
-        "weight": 1.5,
+        "weight": 1.1,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/emalcircle.png"
@@ -2207,7 +2207,7 @@
         "id": "270",
         "name": "medium",
         "price": 5,
-        "weight": 1.25,
+        "weight": 0.5,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/tev1.png"
@@ -2216,7 +2216,7 @@
         "id": "271",
         "name": "medium",
         "price": 5,
-        "weight": 1.25,
+        "weight": 0.5,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/tev1.png"
@@ -2225,7 +2225,7 @@
         "id": "272",
         "name": "medium",
         "price": 5,
-        "weight": 1.25,
+        "weight": 0.5,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/tev2.png"
@@ -2234,7 +2234,7 @@
         "id": "273",
         "name": "medium",
         "price": 5,
-        "weight": 1.25,
+        "weight": 0.5,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/tev2.png"
@@ -2243,7 +2243,7 @@
         "id": "274",
         "name": "medium",
         "price": 5,
-        "weight": 1.25,
+        "weight": 0.5,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/tev3.png"
@@ -2252,7 +2252,7 @@
         "id": "275",
         "name": "medium",
         "price": 5,
-        "weight": 1.25,
+        "weight": 0.5,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/tev3.png"
@@ -2277,7 +2277,7 @@
     },
     "278": {
         "id": "278",
-        "name": "rings bracelets mannequin",
+        "name": "hand",
         "price": 0,
         "weight": 0,
         "material": "Mannequin",
@@ -2286,7 +2286,7 @@
     },
     "279": {
         "id": "279",
-        "name": "rings bracelets mannequin",
+        "name": "hand",
         "price": 0,
         "weight": 0,
         "material": "Mannequin",
@@ -2313,9 +2313,9 @@
     },
     "282": {
         "id": "282",
-        "name": "chainearcuff earcuffs",
+        "name": "chainearcuff ",
         "price": 6,
-        "weight": 0.75,
+        "weight": 0.5,
         "material": "Gold plated 925 silver",
         "plating": 1,
         "photo": "imagegold/chainforcuff.png",
@@ -2323,9 +2323,9 @@
     },
     "283": {
         "id": "283",
-        "name": "chainearcuff earcuffs",
+        "name": "chainearcuff ",
         "price": 6,
-        "weight": 0.75,
+        "weight": 0.5,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/chainforcuff.png",
@@ -2333,7 +2333,7 @@
     },
     "284": {
         "id": "284",
-        "name": "chainearcuff earcuffs",
+        "name": "chainearcuff ",
         "price": 6,
         "weight": 0.3,
         "material": "Gold plated 925 silver",
@@ -2343,7 +2343,7 @@
     },
     "285": {
         "id": "285",
-        "name": "chainearcuff earcuffs",
+        "name": "chainearcuff ",
         "price": 6,
         "weight": 0.3,
         "material": "925 silver",
@@ -2368,5 +2368,187 @@
         "material": "925 silver",
         "plating": 1,
         "photo": "image/bulavkaside.png"
+    },
+    "288": {
+        "id": "288",
+        "name": " earcuffs",
+        "price": 6,
+        "weight": 1.3,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/newcuff.png"
+    },
+    "289": {
+        "id": "289",
+        "name": "earcuffs ",
+        "price": 7,
+        "weight": 1.3,
+        "photo": "imagegold/newcuff.png",
+        "plating": 1.1,
+        "material": "Gold plated 925 silver"
+    },
+    "290": {
+        "id": "290",
+        "name": "chainearcuff",
+        "price": 5,
+        "weight": 0.3,
+        "material": "Gold plated 925 silver",
+        "plating": 1,
+        "photo": "imagegold/1.6mmchain.png"
+    },
+    "291": {
+        "id": "291",
+        "name": "chainearcuff",
+        "price": 5,
+        "weight": 0.3,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/1.6mmchain.png"
+    },
+    "292": {
+        "id": "292",
+        "name": " earcuffs",
+        "price": 6,
+        "weight": 1.5,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/bagetcuff.png"
+    },
+    "293": {
+        "id": "293",
+        "name": "earcuffs ",
+        "price": 7,
+        "weight": 1.5,
+        "photo": "imagegold/bagetcuff.png",
+        "plating": 1.1,
+        "material": "Gold plated 925 silver"
+    },
+    "294": {
+        "id": "294",
+        "name": " earcuffs",
+        "price": 6,
+        "weight": 1.25,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/pearlcuff.png"
+    },
+    "295": {
+        "id": "295",
+        "name": "earcuffs ",
+        "price": 7,
+        "weight": 1.25,
+        "photo": "imagegold/pearlcuff.png",
+        "plating": 1.1,
+        "material": "Gold plated 925 silver"
+    },
+    "296": {
+        "id": "296",
+        "name": " earcuffs",
+        "price": 6,
+        "weight": 1.25,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/pearlcuffblack.png"
+    },
+    "297": {
+        "id": "297",
+        "name": "earcuffs ",
+        "price": 7,
+        "weight": 1.25,
+        "photo": "imagegold/pearlcuffblack.png",
+        "plating": 1.1,
+        "material": "Gold plated 925 silver"
+    },
+    "298": {
+        "id": "298",
+        "name": "chainearcuff",
+        "price": 5,
+        "weight": 0.7,
+        "material": "Gold plated 925 silver",
+        "plating": 1,
+        "photo": "imagegold/cuffchainlong1.png",
+        "description": "len 10 cm thick 1.6mm"
+    },
+    "299": {
+        "id": "299",
+        "name": "chainearcuff",
+        "price": 5,
+        "weight": 0.7,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/cuffchainlong1.png",
+        "description": "len 10 cm , thick 1.6mm "
+    },
+    "300": {
+        "id": "300",
+        "name": " earcuffs",
+        "price": 6,
+        "weight": 2,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/doubleballcuff.png"
+    },
+    "301": {
+        "id": "301",
+        "name": "earcuffs ",
+        "price": 7,
+        "weight": 2,
+        "photo": "imagegold/doubleballcuff.png",
+        "plating": 1.1,
+        "material": "Gold plated 925 silver"
+    },
+    "302": {
+        "id": "302",
+        "name": "medium butterflies",
+        "price": 8,
+        "weight": 1.3,
+        "material": "Gold plated 925 silver",
+        "plating": 1.1,
+        "photo": "imagegold/titermedium.png"
+    },
+    "303": {
+        "id": "303",
+        "name": "medium butterflies",
+        "price": 7,
+        "weight": 1.3,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/titermedium.png"
+    },
+    "304": {
+        "id": "304",
+        "name": "medium butterflies",
+        "price": 8,
+        "weight": 2.7,
+        "material": "Gold plated 925 silver",
+        "plating": 1.1,
+        "photo": "imagegold/titer2cm.png"
+    },
+    "305": {
+        "id": "305",
+        "name": "medium butterflies",
+        "price": 7,
+        "weight": 2.7,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/titer2cm.png"
+    },
+    "306": {
+        "id": "306",
+        "name": " earcuffs",
+        "price": 6,
+        "weight": 1.25,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/chess.png"
+    },
+    "307": {
+        "id": "307",
+        "name": "earcuffs ",
+        "price": 7,
+        "weight": 1.25,
+        "photo": "imagegold/chess.png",
+        "plating": 1.1,
+        "material": "Gold plated 925 silver"
     }
 }
