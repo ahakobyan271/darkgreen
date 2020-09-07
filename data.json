@@ -921,7 +921,7 @@
         "id": "112",
         "name": "large hearts",
         "price": 12,
-        "weight": 2,
+        "weight": 1.1,
         "material": "925 silver",
         "plating": 1,
         "photo": "image/simpleheart.png"
@@ -930,7 +930,7 @@
         "id": "113",
         "name": "large hearts",
         "price": 13,
-        "weight": 2,
+        "weight": 1.1,
         "material": "Gold plated 925 silver",
         "plating": 1.1,
         "photo": "imagegold/simpleheart.png"
@@ -2277,7 +2277,7 @@
     },
     "278": {
         "id": "278",
-        "name": "hand",
+        "name": "mannequin",
         "price": 0,
         "weight": 0,
         "material": "Mannequin",
@@ -2286,7 +2286,7 @@
     },
     "279": {
         "id": "279",
-        "name": "hand",
+        "name": "mannequin",
         "price": 0,
         "weight": 0,
         "material": "Mannequin",
@@ -2548,6 +2548,42 @@
         "price": 7,
         "weight": 1.25,
         "photo": "imagegold/chess.png",
+        "plating": 1.1,
+        "material": "Gold plated 925 silver"
+    },
+    "308": {
+        "id": "308",
+        "name": "rings",
+        "price": 10,
+        "weight":4,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/titerring.png"
+    },
+    "309": {
+        "id": "309",
+        "name": "rings ",
+        "price": 11,
+        "weight": 4,
+        "material": "Gold plated 925 silver",
+        "plating": 1.1,
+        "photo": "imagegold/titerring.png"
+    },
+    "310": {
+        "id": "310",
+        "name": " earcuffs",
+        "price": 6,
+        "weight": 1.3,
+        "material": "925 silver",
+        "plating": 1,
+        "photo": "image/starearcuff.png"
+    },
+    "311": {
+        "id": "311",
+        "name": "earcuffs ",
+        "price": 7,
+        "weight": 1.3,
+        "photo": "imagegold/starearcuff.png",
         "plating": 1.1,
         "material": "Gold plated 925 silver"
     }

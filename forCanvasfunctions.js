@@ -132,7 +132,7 @@ function downloadimage() {
     })
 
     function savewithwatermark() {
-        var link = canvas.toDataURL({ multiplier: 5 })
+        var link = canvas.toDataURL({ multiplier: 1 })
 
 
         saveAs(link) //download png file userside
